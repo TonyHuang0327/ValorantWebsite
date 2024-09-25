@@ -1,0 +1,74 @@
+/* style.css */
+
+/* 導航欄樣式 */
+#navbar {
+    background-color: #000000c2; /* 背景顏色 */
+    padding: 5px; /* 上下內邊距 */
+    display: flex; /* 使用彈性盒子布局 */
+    align-items: center; /* 垂直居中 */
+    justify-content: space-between; /* 將 logo 和連結分開 */
+}
+
+#navbar img {
+    max-width: 40px; /* 設定 logo 的最大寬度 */
+    height: auto; /* 自動調整高度以保持比例 */
+    margin-left: 10px; /* 左邊距 */
+}
+
+#nav-links {
+    display: flex; /* 使連結在同一行顯示 */
+    justify-content: flex-end;
+}
+
+#navbar a {
+    color: white; /* 文字顏色 */
+    text-decoration: none; /* 去掉下劃線 */
+    margin: 0 15px; /* 每個連結的間距 */
+}
+
+#navbar a:hover {
+    transform: scale(1.2); /* 滑鼠懸停時的下劃線效果 */
+    color: #ff4454;
+}
+
+/* 其他樣式 */
+body {
+    font-family: Arial, sans-serif; /* 設定字體 */
+    margin: 0; /* 去掉默認邊距 */
+    background-color: gray;
+}
+
+#linkContainer {
+    display: flex; /* 使用 Flexbox 來排列 */
+    flex-wrap: wrap; /* 允許換行 */
+    justify-content: space-around; /* 在行間留出空間 */
+}
+
+.skin {
+    border: 1px solid #ccc; /* 為每個武器皮膚添加邊框 */
+    border-radius: 8px; /* 添加圓角 */
+    text-align: center; /* 文字居中 */
+}
+
+.skin img {
+    max-width: 95%; /* 讓圖片寬度最大為容器寬度 */
+    height: auto; /* 高度自動調整 */
+    border-radius: 4px; /* 圓角圖片 */
+}
+
+.skin-button {
+    width: 100%; /* 按鈕寬度佔滿容器 */
+    border-radius: 8px; /* 添加圓角 */
+    border: none; /* 取消邊框 */
+    background-color: transparent; /* 透明背景 */
+    padding: 0; /* 取消內部填充 */
+    margin: 0; /* 取消外部間距 */
+    cursor: pointer; /* 鼠標懸停時的光標樣式 */
+    text-align: center; /* 文字居中 */
+    width: calc(30% - 10px); /* 每個皮膚的寬度，三個一排，減去邊距 */
+    margin: 10px; /* 增加上下之間的距離 */
+}
+
+.skin-button:hover {
+    background-color: rgba(255, 255, 255, 0.1); /* 懸停時的背景變化 */
+}
