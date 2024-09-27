@@ -1,5 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('/get_database/database/weapon_skin_Vandal.json') // 使用正確的相對路徑
+
+    const urlParameter = new URLSearchParams(window.location.search);
+    weaponName = urlParameter.get('weapon');
+
+    fetch(`/get_database/database/weapon_skin_${weaponName}.json`) // 使用正確的相對路徑
     .then(response => response.json())
     .then(data => {
         console.log(data); // 在控制台中打印獲取的資料
