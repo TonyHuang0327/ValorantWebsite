@@ -1,83 +1,103 @@
 [
     {
         "name": "Task Force 809 Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c27a963f-4930-d471-a43e-4c9901add819/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c27a963f-4930-d471-a43e-4c9901add819/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Fiber Optic Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5a0445c7-4bef-cfc9-8c7f-25ab219ccd82/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5a0445c7-4bef-cfc9-8c7f-25ab219ccd82/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Gaia's Vengeance Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b2883421-4cb0-7488-1da4-d7b5e3c349e7/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b2883421-4cb0-7488-1da4-d7b5e3c349e7/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Composite Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9ebd26af-470e-ab40-aa03-878eb88a694a/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9ebd26af-470e-ab40-aa03-878eb88a694a/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Rune Stone Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/dfb8b619-49c8-745e-e6ba-62a9339daf86/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/dfb8b619-49c8-745e-e6ba-62a9339daf86/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Nocturnum Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c59df123-4851-6143-ac76-cf972a81f7df/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c59df123-4851-6143-ac76-cf972a81f7df/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Doodle Buds Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a0ed65cb-4c78-a8f8-8c50-098a7ac44bf6/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a0ed65cb-4c78-a8f8-8c50-098a7ac44bf6/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Songsteel Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4156c0b0-44b8-7ea9-6707-75aec36ec5fb/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4156c0b0-44b8-7ea9-6707-75aec36ec5fb/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Chromedek Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/01187f24-41a0-0f97-7fd9-749953668cf3/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/01187f24-41a0-0f97-7fd9-749953668cf3/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Venturi Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/711d9160-42bd-1de7-9b8c-d5bd485d6208/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/711d9160-42bd-1de7-9b8c-d5bd485d6208/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Ruin Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/609f948b-4d2e-99ee-631e-b98a74468877/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/609f948b-4d2e-99ee-631e-b98a74468877/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Neo Frontier Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/71d1a8d4-4345-dcab-e5d1-ac9f78ca7c4f/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/71d1a8d4-4345-dcab-e5d1-ac9f78ca7c4f/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Monarch Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/7712df7e-46d7-7109-2601-4297e28b2a7c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/7712df7e-46d7-7109-2601-4297e28b2a7c/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Avalanche Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3ee65b06-48e5-5046-db49-65b0635ac005/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3ee65b06-48e5-5046-db49-65b0635ac005/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Black.Market Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e574afe9-412e-51d0-98dc-429b35912711/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e574afe9-412e-51d0-98dc-429b35912711/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Couture Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/727bb66d-40e5-49e4-6368-44b95c56e8e0/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/727bb66d-40e5-49e4-6368-44b95c56e8e0/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Magepunk Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c4174b76-49da-30f7-4d88-eea963267f8d/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c4174b76-49da-30f7-4d88-eea963267f8d/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Tacti-Series Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2e6b84d7-41a2-5c67-fc0b-8aa68a4898cd/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2e6b84d7-41a2-5c67-fc0b-8aa68a4898cd/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Signature Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9f89d919-4dab-9443-5b1d-91929d0a1d93/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9f89d919-4dab-9443-5b1d-91929d0a1d93/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Coalition: Cobra Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/77734ca5-4118-6569-f90e-90b5b9536913/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/77734ca5-4118-6569-f90e-90b5b9536913/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Standard",
@@ -85,7 +105,8 @@
     },
     {
         "name": "Crimsonbeast Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d7ac88cd-4d2d-f6b3-e7fe-f291b6c7f751/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d7ac88cd-4d2d-f6b3-e7fe-f291b6c7f751/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Moondash Marshal",
@@ -93,7 +114,8 @@
     },
     {
         "name": "Kuronami Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ace6ba33-47b6-8d06-df03-2ca380d78f70/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ace6ba33-47b6-8d06-df03-2ca380d78f70/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Switchback Marshal",
@@ -101,19 +123,23 @@
     },
     {
         "name": "POLYfrog Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/8502c2a0-439b-89bb-4f04-a09611b01ab9/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/8502c2a0-439b-89bb-4f04-a09611b01ab9/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Divine Swine Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2adc4604-4f91-f3b4-310b-7e89f285c368/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2adc4604-4f91-f3b4-310b-7e89f285c368/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Artisan Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/422f7941-4fd7-572c-241d-8ca84846b31a/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/422f7941-4fd7-572c-241d-8ca84846b31a/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Luna Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/8ddcf7eb-46ad-960f-1f18-17b181d7fdf4/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/8ddcf7eb-46ad-960f-1f18-17b181d7fdf4/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Premiere Collision Marshal",
@@ -125,11 +151,13 @@
     },
     {
         "name": "Sovereign Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/18c67b9a-419d-aa6d-224f-869f7e541fff/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/18c67b9a-419d-aa6d-224f-869f7e541fff/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Reverie Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/401ca81b-4e36-fbbc-30ac-929bf1159883/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/401ca81b-4e36-fbbc-30ac-929bf1159883/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Marshal",
@@ -137,22 +165,27 @@
     },
     {
         "name": "Freehand Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/36b8ef20-4618-9d72-1b94-428373dae618/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/36b8ef20-4618-9d72-1b94-428373dae618/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Sandswept Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2d438dd0-4213-a3c5-37d0-2794164574dc/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2d438dd0-4213-a3c5-37d0-2794164574dc/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Wasteland Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6e4dceba-441b-2fc5-5992-80ab4d779922/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6e4dceba-441b-2fc5-5992-80ab4d779922/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Winterwunderland Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ed72b5f0-4fa3-6998-88d8-209ba547ff1e/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ed72b5f0-4fa3-6998-88d8-209ba547ff1e/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Convergence Marshal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0bd9ccd6-4d24-4004-e713-7da14c86e422/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0bd9ccd6-4d24-4004-e713-7da14c86e422/fullrender.png",
+        "level": "battle pass"
     }
 ]

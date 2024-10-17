@@ -1,35 +1,43 @@
 [
     {
         "name": "Immortalized Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/64c51524-43da-875e-ff0d-db97f3e6194e/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/64c51524-43da-875e-ff0d-db97f3e6194e/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "RGX 11z Pro Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/742740d0-4e50-57e1-af32-f991c7c640f8/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/742740d0-4e50-57e1-af32-f991c7c640f8/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Altitude Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/97873b03-4586-fe14-5790-daa15d064da0/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/97873b03-4586-fe14-5790-daa15d064da0/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "VALORANT GO! Vol. 2 Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/730adb1b-4e94-f597-9f21-60b758da1156/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/730adb1b-4e94-f597-9f21-60b758da1156/fullrender.png",
+        "level": "time-limited"
     },
     {
         "name": "Araxys Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a09f9850-4cb9-d0aa-63c7-6dbb5a64f27e/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a09f9850-4cb9-d0aa-63c7-6dbb5a64f27e/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Neptune Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9a2125b3-4e53-4757-fe1c-4e9b31ae0c28/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9a2125b3-4e53-4757-fe1c-4e9b31ae0c28/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Aristocrat Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d2cb89c5-4be5-efde-765e-43896e6e0a48/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d2cb89c5-4be5-efde-765e-43896e6e0a48/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Gaia's Vengeance Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c9d93000-4133-3f68-20ea-81a307ef0540/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c9d93000-4133-3f68-20ea-81a307ef0540/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "MK.VII Liberty Vandal",
@@ -49,39 +57,48 @@
     },
     {
         "name": "Origin Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/de2a2b29-4a65-459e-a822-ccacbff53d46/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/de2a2b29-4a65-459e-a822-ccacbff53d46/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Comet Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b811157c-4e28-4e18-b45d-fe8e9782de3a/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b811157c-4e28-4e18-b45d-fe8e9782de3a/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Starlit Odyssey Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0f85e1e8-4f6e-1a01-210a-b1948c05f8ea/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0f85e1e8-4f6e-1a01-210a-b1948c05f8ea/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Glitchpop Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b58f249b-4e8f-5532-6f35-a9b3b39dc15c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b58f249b-4e8f-5532-6f35-a9b3b39dc15c/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "ChronoVoid Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d6be385b-44f7-271a-6b1b-34be3251b6c7/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d6be385b-44f7-271a-6b1b-34be3251b6c7/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Prelude to Chaos Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/10ff3757-4099-f828-d391-e28d2e634924/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/10ff3757-4099-f828-d391-e28d2e634924/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Elderflame Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/835ad8e3-4b0e-071b-ce38-00a05032ac43/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/835ad8e3-4b0e-071b-ce38-00a05032ac43/fullrender.png",
+        "level": "Ultra"
     },
     {
         "name": "Imperium Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/45ae6708-4dd0-4d01-3a5c-eab3764a5807/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/45ae6708-4dd0-4d01-3a5c-eab3764a5807/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Sarmad Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/8b1098f4-41d0-043d-382a-19a2dff966bb/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/8b1098f4-41d0-043d-382a-19a2dff966bb/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Standard",
@@ -89,31 +106,38 @@
     },
     {
         "name": "Hivemind Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/10b9c4d7-448d-508d-25f6-a39edf95a79f/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/10b9c4d7-448d-508d-25f6-a39edf95a79f/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Venturi Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c075fec1-4c07-06f3-9c4d-02be3375ac02/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c075fec1-4c07-06f3-9c4d-02be3375ac02/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Forsaken Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6273d900-47de-65bb-29c9-ea934faadfef/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6273d900-47de-65bb-29c9-ea934faadfef/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Team Ace Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/89efc97e-4fc4-3eb2-0c98-37b3f6429e91/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/89efc97e-4fc4-3eb2-0c98-37b3f6429e91/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Ruin Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9ff28c95-4e69-56b2-6980-e09b503572bb/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9ff28c95-4e69-56b2-6980-e09b503572bb/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": ".EXE Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2be20a2a-4582-b689-f00e-a98dafad65eb/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2be20a2a-4582-b689-f00e-a98dafad65eb/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": ".SYS Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/51e4fbb2-439c-1640-6d35-358b3c70af30/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/51e4fbb2-439c-1640-6d35-358b3c70af30/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Primordium Vandal",
@@ -121,39 +145,48 @@
     },
     {
         "name": "Horizon Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/689e54c0-4089-2d91-de26-61aa4286d6cf/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/689e54c0-4089-2d91-de26-61aa4286d6cf/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Prime Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a26e0d1d-4886-7d62-6b4f-1996e706463d/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a26e0d1d-4886-7d62-6b4f-1996e706463d/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "XERØFANG Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/301fef53-4091-7bf8-07b9-bc8701b217a5/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/301fef53-4091-7bf8-07b9-bc8701b217a5/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Avalanche Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3b47b889-493b-b28f-131b-adaf01e18970/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3b47b889-493b-b28f-131b-adaf01e18970/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Bubble Pop Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/826e4d90-4a87-6ef3-3617-39b0dd20051f/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/826e4d90-4a87-6ef3-3617-39b0dd20051f/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Guardrail Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c859485f-4c7c-a4f9-49a1-fdb0ba6d061d/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c859485f-4c7c-a4f9-49a1-fdb0ba6d061d/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Black.Market Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/99d3410a-4921-3af2-b57d-269ef3c0343c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/99d3410a-4921-3af2-b57d-269ef3c0343c/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Prism II Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4238e35f-47e6-8845-7798-3cb3290683dc/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4238e35f-47e6-8845-7798-3cb3290683dc/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "K/TAC Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b3e54738-4198-5491-2e1c-fcbaa85b307d/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b3e54738-4198-5491-2e1c-fcbaa85b307d/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Aemondir Vandal",
@@ -165,55 +198,68 @@
     },
     {
         "name": "Nunca Olvidados Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/fe846170-4e07-de82-0f4d-45adac6b166d/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/fe846170-4e07-de82-0f4d-45adac6b166d/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Luxe Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/86f3352f-49b1-603f-6752-60bdfcddf318/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/86f3352f-49b1-603f-6752-60bdfcddf318/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Magepunk Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/71c769ce-48d7-fe22-2d4b-a996afd0a076/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/71c769ce-48d7-fe22-2d4b-a996afd0a076/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Valiant Hero Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a833b92c-4981-6d12-191d-25b85f5d8bd5/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a833b92c-4981-6d12-191d-25b85f5d8bd5/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Overdrive Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/048ab630-4117-a932-d26d-208aad284072/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/048ab630-4117-a932-d26d-208aad284072/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Silvanus Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d5327938-46fb-929c-e117-59888b3516df/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d5327938-46fb-929c-e117-59888b3516df/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Crimsonbeast Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c6cba7e7-4a2d-546f-9994-bb9e943cec14/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c6cba7e7-4a2d-546f-9994-bb9e943cec14/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Kuronami Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3637a0be-4785-8841-9893-1198325185f2/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3637a0be-4785-8841-9893-1198325185f2/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Ion Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/22ec09d9-4b0f-c9a4-e843-db8d6af8d110/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/22ec09d9-4b0f-c9a4-e843-db8d6af8d110/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Oni Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/7bd85530-4a2a-a463-733c-47a4daac3e91/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/7bd85530-4a2a-a463-733c-47a4daac3e91/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Cryostasis Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/886d24da-42ba-62cd-9d25-a7813ee686cc/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/886d24da-42ba-62cd-9d25-a7813ee686cc/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Luna Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6b30f955-463f-e96c-57fc-ef92dbc92b4b/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6b30f955-463f-e96c-57fc-ef92dbc92b4b/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Sensation Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e5ca1ad8-4548-43f8-13b3-a89cc50aa319/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e5ca1ad8-4548-43f8-13b3-a89cc50aa319/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Standard",
@@ -221,43 +267,53 @@
     },
     {
         "name": "Orion Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4bcbe4b3-4009-8408-5345-ea8f926625a7/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4bcbe4b3-4009-8408-5345-ea8f926625a7/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Sentinels of Light Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6f337971-40b7-c94d-0f24-36869af654c6/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6f337971-40b7-c94d-0f24-36869af654c6/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Sakura Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/40813a80-401b-5260-188a-0f9adf807ae4/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/40813a80-401b-5260-188a-0f9adf807ae4/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Schema Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/cdac9211-4b19-09df-4b4d-5dba3d61b7c1/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/cdac9211-4b19-09df-4b4d-5dba3d61b7c1/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Lycan's Bane Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5d259a89-4b32-f15c-4ddc-0e83ce3130d2/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5d259a89-4b32-f15c-4ddc-0e83ce3130d2/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Transition Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/31333054-467b-1d01-64ae-da8899495da4/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/31333054-467b-1d01-64ae-da8899495da4/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Reaver Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2bd28382-48c6-8579-83e8-e9b64b783de3/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2bd28382-48c6-8579-83e8-e9b64b783de3/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Tethered Realms Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/bd02d15d-4b40-d70b-5877-caad6e786f84/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/bd02d15d-4b40-d70b-5877-caad6e786f84/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Cavalier Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c6838523-4412-d800-84d3-1c93c15a8840/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c6838523-4412-d800-84d3-1c93c15a8840/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Titanmail Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/10b39a6f-494c-ca3c-497f-24877ab43a47/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/10b39a6f-494c-ca3c-497f-24877ab43a47/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Vandal",
@@ -265,38 +321,47 @@
     },
     {
         "name": "Evori Dreamwings Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/1bf0d77f-4e94-9dc0-7a7a-fb8430b569d3/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/1bf0d77f-4e94-9dc0-7a7a-fb8430b569d3/fullrender.png",
+        "level": "Ultra"
     },
     {
         "name": "NO LIMITS Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d774ce6b-4749-ae3b-9111-a2b5e36799ab/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d774ce6b-4749-ae3b-9111-a2b5e36799ab/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Sandswept Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5e114c12-4d23-c6f9-65be-daa820f95f8d/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5e114c12-4d23-c6f9-65be-daa820f95f8d/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Depths Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/02a02a39-43d9-ea9b-417f-25b3e0a4da86/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/02a02a39-43d9-ea9b-417f-25b3e0a4da86/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Wonderstallion Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c288e8ab-4904-1f8d-c021-359a487a6bdc/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c288e8ab-4904-1f8d-c021-359a487a6bdc/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Ego Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/57ee65cc-4b0b-0460-7c05-43890e3b5792/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/57ee65cc-4b0b-0460-7c05-43890e3b5792/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Holomoku Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a5d7f657-48a6-ce48-ed5e-bda95ad97b2e/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a5d7f657-48a6-ce48-ed5e-bda95ad97b2e/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Wasteland Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/849b5754-47c2-38f2-f912-a796b0644307/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/849b5754-47c2-38f2-f912-a796b0644307/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Winterwunderland Vandal",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2f27fbff-452f-49c7-5370-129fb5548e44/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2f27fbff-452f-49c7-5370-129fb5548e44/fullrender.png",
+        "level": "Deluxe"
     }
 ]

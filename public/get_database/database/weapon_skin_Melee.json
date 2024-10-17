@@ -1,47 +1,58 @@
 [
     {
         "name": "Task Force 809 Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5d5b1d55-4047-a5c6-b1d2-23a940d55fb0/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5d5b1d55-4047-a5c6-b1d2-23a940d55fb0/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "RGX 11z Pro Blade",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/8ceded3e-4365-9aa6-eb7e-bda2cd553d6f/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/8ceded3e-4365-9aa6-eb7e-bda2cd553d6f/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "RGX 11z Pro Firefly",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/dabe2b1d-4b49-95ad-ac09-108fda10c52c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/dabe2b1d-4b49-95ad-ac09-108fda10c52c/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "RGX 11z Pro Karambit",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e0110689-40ad-f71c-0cce-34bd0d88843a/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e0110689-40ad-f71c-0cce-34bd0d88843a/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Altitude Knuckle Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/bb9427cc-4782-aead-861f-4288c5abfcac/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/bb9427cc-4782-aead-861f-4288c5abfcac/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Xenohunter Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/37714c64-482b-d68d-f704-139156a2577c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/37714c64-482b-d68d-f704-139156a2577c/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Intergrade Blade",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/80ebe390-4eec-ecb9-9a29-e58c35c0aacb/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/80ebe390-4eec-ecb9-9a29-e58c35c0aacb/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "VALORANT GO! Vol. 1 Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2aebc30d-43d9-4501-69a6-b28648c2e4f6/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2aebc30d-43d9-4501-69a6-b28648c2e4f6/fullrender.png",
+        "level": "time-limited"
     },
     {
         "name": "Yoru's Stylish Butterfly Comb",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d3f2119f-4853-e136-c807-e197b6a9c92e/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d3f2119f-4853-e136-c807-e197b6a9c92e/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Araxys Bio Harvester",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/332d51cd-4682-bd33-bb17-0e98300ce5ac/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/332d51cd-4682-bd33-bb17-0e98300ce5ac/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Neptune Anchor",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e6d3f9c9-4b20-881d-c990-0b97b49a3fd8/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e6d3f9c9-4b20-881d-c990-0b97b49a3fd8/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Power Fist",
@@ -49,11 +60,13 @@
     },
     {
         "name": "Gaia's Wrath",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f3de1f8b-471f-cd60-9c42-d59a8ef93a3c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f3de1f8b-471f-cd60-9c42-d59a8ef93a3c/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Gaia's Fury",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/488b19bd-497f-81c8-6155-8b870e5dfd1a/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/488b19bd-497f-81c8-6155-8b870e5dfd1a/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "MK.VII Liberty Combat Knife",
@@ -69,11 +82,13 @@
     },
     {
         "name": "Composite Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/66d057a7-4681-bd8b-ecbc-258573e6fd0a/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/66d057a7-4681-bd8b-ecbc-258573e6fd0a/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Overlay Dagger",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3695e607-48f8-2ab3-8e83-b6b047a45748/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3695e607-48f8-2ab3-8e83-b6b047a45748/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Champions 2021 Karambit",
@@ -93,27 +108,33 @@
     },
     {
         "name": "Origin Crescent Blade",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3d37799a-4ec1-61c1-ac3a-8db96119897e/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3d37799a-4ec1-61c1-ac3a-8db96119897e/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Striker Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e6ac3d3e-4138-436d-4d3d-4eb4043353ec/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e6ac3d3e-4138-436d-4d3d-4eb4043353ec/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Comet Sword",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2f95a542-4558-8480-3df2-7bb0ae98cdab/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2f95a542-4558-8480-3df2-7bb0ae98cdab/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Radiant Crisis 001 Baseball Bat",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2870c012-4ad1-43d2-348d-2a98cc640833/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2870c012-4ad1-43d2-348d-2a98cc640833/fullrender.png",
+        "level": "Ultra"
     },
     {
         "name": "Nebula Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/82988b47-4439-3b28-cbbe-899d381b291e/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/82988b47-4439-3b28-cbbe-899d381b291e/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Nocturnum Scythe",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/20e3b9f8-413b-075d-88af-1eb8885f2308/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/20e3b9f8-413b-075d-88af-1eb8885f2308/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Hack",
@@ -121,11 +142,13 @@
     },
     {
         "name": "Glitchpop Dagger",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9d137aeb-41a1-a84f-3523-5194e24cc580/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9d137aeb-41a1-a84f-3523-5194e24cc580/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Glitchpop Axe",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ded15275-482e-e9da-0002-1b9d495d2e98/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ded15275-482e-e9da-0002-1b9d495d2e98/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Terminus A Quo",
@@ -133,7 +156,8 @@
     },
     {
         "name": "Emberclad Hammer",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6db9c932-47e0-61cc-66c2-1daa6d55f4ea/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6db9c932-47e0-61cc-66c2-1daa6d55f4ea/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Caeruleus",
@@ -145,7 +169,8 @@
     },
     {
         "name": "Elderflame Dagger",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d74171bf-4f3a-7dd7-76b9-04afeaeb72c0/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d74171bf-4f3a-7dd7-76b9-04afeaeb72c0/fullrender.png",
+        "level": "Ultra"
     },
     {
         "name": "Blades of Imperium",
@@ -153,7 +178,8 @@
     },
     {
         "name": "Singularity Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a42d1c90-4fcf-b6f5-4889-41b6805c0214/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a42d1c90-4fcf-b6f5-4889-41b6805c0214/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Blade of Serket",
@@ -161,47 +187,58 @@
     },
     {
         "name": "Songsteel",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/db9cbc78-43a8-cc55-22c0-f9abd8f48c9e/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/db9cbc78-43a8-cc55-22c0-f9abd8f48c9e/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Chromedek Gauntlet",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/153e56f6-458c-e97f-5a11-f2abdf5bfb93/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/153e56f6-458c-e97f-5a11-f2abdf5bfb93/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "VCT LOCK//IN Misericórdia",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/465c23f5-457b-e7ea-a59a-23993c087581/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/465c23f5-457b-e7ea-a59a-23993c087581/fullrender.png",
+        "level": "time-limited"
     },
     {
         "name": "Hivemind Sword",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e276db7c-4cab-3215-2b83-c483b8b9139d/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e276db7c-4cab-3215-2b83-c483b8b9139d/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Venturi Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/36aad8ff-46c3-db6e-0ed0-719cb97a22e8/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/36aad8ff-46c3-db6e-0ed0-719cb97a22e8/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Forsaken Ritual Blade Level 2",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/30e034a5-41dc-f639-e513-ce95af4a0474/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/30e034a5-41dc-f639-e513-ce95af4a0474/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Velocity Karambit",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c77c71e4-464b-2d62-bb8b-f49b14f8c7cb/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c77c71e4-464b-2d62-bb8b-f49b14f8c7cb/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Ruin Dagger",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/7c14d797-4a40-2fbc-c314-249f6029396f/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/7c14d797-4a40-2fbc-c314-249f6029396f/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": ".SYS Melee",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/7cf68fce-474d-cd59-5729-17a45fd83764/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/7cf68fce-474d-cd59-5729-17a45fd83764/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Neo Frontier Axe",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2ad9b50a-40f8-82fd-3594-d69ed33f8755/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2ad9b50a-40f8-82fd-3594-d69ed33f8755/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Soulstrife Scythe",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/252c202e-4f8f-c064-8059-0ea0c851cc3c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/252c202e-4f8f-c064-8059-0ea0c851cc3c/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Blades of Primordia",
@@ -209,31 +246,38 @@
     },
     {
         "name": "Prime Axe",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d2e296d9-448e-c58f-2229-14a481906686/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d2e296d9-448e-c58f-2229-14a481906686/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Prime//2.0 Karambit",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/245202ea-46e4-72c3-0864-f08a8207c0c3/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/245202ea-46e4-72c3-0864-f08a8207c0c3/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "XERØFANG Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/cdbb2e19-465d-4ba0-4617-51bbe1f208e7/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/cdbb2e19-465d-4ba0-4617-51bbe1f208e7/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Bubble Pop Light Stick",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f464a9ce-4438-ea4c-a377-e9b50f9e36c4/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f464a9ce-4438-ea4c-a377-e9b50f9e36c4/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Outpost Melee",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2f6deeda-45f5-9398-a057-1d968b9e91fd/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2f6deeda-45f5-9398-a057-1d968b9e91fd/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Guardrail Hammer",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/da1b864e-48f9-bb1e-0cce-24b047713af5/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/da1b864e-48f9-bb1e-0cce-24b047713af5/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Black.Market Butterfly Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f5851647-448e-a209-915f-4597df528522/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f5851647-448e-a209-915f-4597df528522/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Bound",
@@ -241,11 +285,13 @@
     },
     {
         "name": "Prism Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5b4270db-4d8b-7293-8b5c-cbb6aea9bd22/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5b4270db-4d8b-7293-8b5c-cbb6aea9bd22/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Prism III Axe",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b95b440a-44b2-3f3f-f60a-5a80db86dca0/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b95b440a-44b2-3f3f-f60a-5a80db86dca0/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Blade of the Ruined King",
@@ -253,11 +299,13 @@
     },
     {
         "name": "Kingdom Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/138ae294-4f2e-528a-6601-a69e931bb93f/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/138ae294-4f2e-528a-6601-a69e931bb93f/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "K/TAC Blade",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2265cbe1-4b96-9f34-68ed-09900e0eaba9/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2265cbe1-4b96-9f34-68ed-09900e0eaba9/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Equilibrium",
@@ -269,11 +317,13 @@
     },
     {
         "name": "Smite Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9c0fc8e8-4e36-86b7-8905-ee848916ea03/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9c0fc8e8-4e36-86b7-8905-ee848916ea03/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Daydreams Crowbar",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/8ba3fe09-4dd9-d4d6-60f3-8b8c97d40c72/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/8ba3fe09-4dd9-d4d6-60f3-8b8c97d40c72/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Catrina",
@@ -281,11 +331,13 @@
     },
     {
         "name": "Iridian Thorn Blade",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/236deb7d-4aea-5aae-4730-dca65f88e4b3/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/236deb7d-4aea-5aae-4730-dca65f88e4b3/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Celestial Fan",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/beaac174-44a6-0ee8-4607-939405782cae/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/beaac174-44a6-0ee8-4607-939405782cae/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Standard",
@@ -293,19 +345,23 @@
     },
     {
         "name": "Magepunk Electroblade",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ba3e92f9-46a4-744f-b06d-12a37910d80b/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ba3e92f9-46a4-744f-b06d-12a37910d80b/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Magepunk Shock Gauntlet",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d728f2cf-46c1-1084-f3d3-1c86f61f5875/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d728f2cf-46c1-1084-f3d3-1c86f61f5875/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Magepunk Sparkswitch",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/64344670-4e0d-cc45-6f4e-88ba4b17f7a7/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/64344670-4e0d-cc45-6f4e-88ba4b17f7a7/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Spline Dagger",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a31fc599-4de8-a3cd-11fe-36ba7990832b/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a31fc599-4de8-a3cd-11fe-36ba7990832b/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Ruyi Staff",
@@ -313,31 +369,38 @@
     },
     {
         "name": "Overdrive Blade",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/559f6638-426d-8c57-7a0d-158dd339fc70/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/559f6638-426d-8c57-7a0d-158dd339fc70/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Crimsonbeast Hammer",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e740a207-4cd8-da88-84b3-11af53748fb6/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e740a207-4cd8-da88-84b3-11af53748fb6/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Genesis Arc",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/550d4b9c-4fe9-0f15-d4e9-3f9466685596/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/550d4b9c-4fe9-0f15-d4e9-3f9466685596/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Kuronami no Yaiba",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/31a9b6a5-4c0b-f7bc-f2a6-a8b5eeffb898/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/31a9b6a5-4c0b-f7bc-f2a6-a8b5eeffb898/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Ion Energy Sword",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/066f353c-42d9-3020-f11b-78b6eb29fdb8/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/066f353c-42d9-3020-f11b-78b6eb29fdb8/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Ion Karambit",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/43f1a063-47e7-fb46-7949-87a89a982afb/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/43f1a063-47e7-fb46-7949-87a89a982afb/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Oni Claw",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/94bf2d2a-4f1b-b68e-0de1-f2ac152d1127/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/94bf2d2a-4f1b-b68e-0de1-f2ac152d1127/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Onimaru Kunitsuna",
@@ -349,11 +412,13 @@
     },
     {
         "name": "Cryostasis Impact Drill",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e69672d4-4e5f-4ff8-e7ca-ad97ed343241/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e69672d4-4e5f-4ff8-e7ca-ad97ed343241/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Artisan Foil",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b5bdd4c9-4b22-a4d3-1ca4-4c8348f6a41d/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b5bdd4c9-4b22-a4d3-1ca4-4c8348f6a41d/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Personal Administrative Melee Unit",
@@ -369,11 +434,13 @@
     },
     {
         "name": "Gravitational Uranium Neuroblaster Baton",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d5aa2665-4381-e982-4fd7-6ab0c2ce920b/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d5aa2665-4381-e982-4fd7-6ab0c2ce920b/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Orion Sword",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ee9cf8f6-4b9a-7997-e3b3-c48f4eb5bf30/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ee9cf8f6-4b9a-7997-e3b3-c48f4eb5bf30/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Relic of the Sentinel",
@@ -385,11 +452,13 @@
     },
     {
         "name": "Shellspire Sword",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/51e4a1c9-469b-61f4-6111-c09e1e918d23/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/51e4a1c9-469b-61f4-6111-c09e1e918d23/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Transition Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/450082a2-4dce-7b5e-c19a-adbe61ff60b2/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/450082a2-4dce-7b5e-c19a-adbe61ff60b2/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Standard",
@@ -397,11 +466,13 @@
     },
     {
         "name": "Reaver Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/71241f8e-4689-a110-0b22-8eac0aa512aa/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/71241f8e-4689-a110-0b22-8eac0aa512aa/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Reaver Karambit",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/61eb0d02-4dfe-4413-6e29-4d9f9500e6a5/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/61eb0d02-4dfe-4413-6e29-4d9f9500e6a5/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Prosperity",
@@ -409,7 +480,8 @@
     },
     {
         "name": "Sovereign Sword",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3391be35-4eab-936c-f26d-ec810f4454c8/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3391be35-4eab-936c-f26d-ec810f4454c8/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Eternal Sovereign",
@@ -417,19 +489,23 @@
     },
     {
         "name": "Recon Balisong",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ae57ad7b-4d9c-3931-8df6-6387f6d0411e/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ae57ad7b-4d9c-3931-8df6-6387f6d0411e/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Titanmail Mace",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9a2409be-4195-c29e-54dd-608c10a7a51c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9a2409be-4195-c29e-54dd-608c10a7a51c/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Mystbloom Kunai",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/395821e4-4938-f71e-486f-b6b0087a2c13/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/395821e4-4938-f71e-486f-b6b0087a2c13/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Reverie Sword",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5ac15739-4913-ba1c-036a-19b0751cee3b/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5ac15739-4913-ba1c-036a-19b0751cee3b/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Standard Melee",
@@ -441,11 +517,13 @@
     },
     {
         "name": "Tilde Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/05dce4fd-4b4d-1fe5-4226-27bff185488c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/05dce4fd-4b4d-1fe5-4226-27bff185488c/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Fortune's Scepter",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f33ce133-407d-a483-71d1-bf8fab1640a0/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f33ce133-407d-a483-71d1-bf8fab1640a0/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Hu Else",
@@ -453,23 +531,28 @@
     },
     {
         "name": "NO LIMITS Bat",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/650191fd-4ac7-691e-f2e1-0d83b8be4702/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/650191fd-4ac7-691e-f2e1-0d83b8be4702/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Sandswept Dagger",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a4777026-40ac-ff15-c43b-2c9c65ba5e46/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a4777026-40ac-ff15-c43b-2c9c65ba5e46/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "BlastX Polymer KnifeTech Coated Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4805ee17-4f88-b9b7-b009-8c9986bee2f3/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4805ee17-4f88-b9b7-b009-8c9986bee2f3/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Wonderstallion Hammer",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ea931013-467b-490d-2ea6-4f97c6ab1e2d/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ea931013-467b-490d-2ea6-4f97c6ab1e2d/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Ego Knife",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9c8ed548-4ad7-6d82-9d1e-a0a57d7e2267/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9c8ed548-4ad7-6d82-9d1e-a0a57d7e2267/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Kaimana",
@@ -481,6 +564,7 @@
     },
     {
         "name": "Winterwunderland Candy Cane",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/cf790c7c-42d7-23ee-69da-ebaccffac718/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/cf790c7c-42d7-23ee-69da-ebaccffac718/fullrender.png",
+        "level": "Deluxe"
     }
 ]

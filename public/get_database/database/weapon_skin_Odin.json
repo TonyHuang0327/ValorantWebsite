@@ -1,27 +1,33 @@
 [
     {
-        "name": "Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2f93861d-4b2f-2175-af0c-3ba0c736e257/fullrender.png"
+        "name": "Altitude Odin",
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/092a25a4-422f-f577-37ac-26a5d489c155/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Xenohunter Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3cc39f94-443e-e0e1-39be-21a9c9f3b0aa/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3cc39f94-443e-e0e1-39be-21a9c9f3b0aa/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Tactiplay Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/1cefc3ab-4097-179d-79c3-a4a2bcdb4100/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/1cefc3ab-4097-179d-79c3-a4a2bcdb4100/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Rune Stone Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/bf2fea95-4b73-05e3-9956-b8828a0f2edf/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/bf2fea95-4b73-05e3-9956-b8828a0f2edf/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Comet Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/faba53e8-49c3-b167-1787-5d8caedbc552/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/faba53e8-49c3-b167-1787-5d8caedbc552/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Glitchpop Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9667983e-4c8c-e5b2-68d7-be84f9b3d46c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9667983e-4c8c-e5b2-68d7-be84f9b3d46c/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Standard",
@@ -29,39 +35,48 @@
     },
     {
         "name": "Topotek Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2aa6e3af-424e-1278-e317-1faa895ab33c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2aa6e3af-424e-1278-e317-1faa895ab33c/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": ".EXE Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c1ed5bf3-4827-3e3a-ebbb-1ba42a226e59/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c1ed5bf3-4827-3e3a-ebbb-1ba42a226e59/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Neo Frontier Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e20c028f-4e3e-0df7-551d-8c9eb51d08e7/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e20c028f-4e3e-0df7-551d-8c9eb51d08e7/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Prime//2.0 Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9e59563c-4467-43df-3b58-2ca43c25abde/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9e59563c-4467-43df-3b58-2ca43c25abde/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Prism III Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b8bf7a9c-4724-a090-31b2-79b2211a6079/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b8bf7a9c-4724-a090-31b2-79b2211a6079/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Smite Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5da04039-4875-92ec-759f-5b9928d12b30/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5da04039-4875-92ec-759f-5b9928d12b30/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Coalition: Cobra Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e8874661-47d0-37cd-5f98-33b18e05872a/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e8874661-47d0-37cd-5f98-33b18e05872a/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Lightwave Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/156158a5-4eb2-79ef-49e9-16a680fe93a9/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/156158a5-4eb2-79ef-49e9-16a680fe93a9/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Sensation Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/53ce97ed-47e0-4856-0446-f7bc86e869e0/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/53ce97ed-47e0-4856-0446-f7bc86e869e0/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Standard",
@@ -69,27 +84,33 @@
     },
     {
         "name": "Orion Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2e9873e7-4fe8-e38f-76c8-2f8e30f626d6/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2e9873e7-4fe8-e38f-76c8-2f8e30f626d6/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Sentinels of Light Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0b07deb9-4add-5c51-b381-3c8a1dd02cf2/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0b07deb9-4add-5c51-b381-3c8a1dd02cf2/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Schema Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/46afaf58-410c-661b-85d1-9eaafb4185b2/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/46afaf58-410c-661b-85d1-9eaafb4185b2/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Lycan's Bane Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/42bdb11e-4d51-27eb-37e5-5c91c5c94a61/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/42bdb11e-4d51-27eb-37e5-5c91c5c94a61/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Reaver Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/cf42ad75-43db-5426-0645-a7a3fac452c5/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/cf42ad75-43db-5426-0645-a7a3fac452c5/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Sovereign Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a16360a6-4588-1cdf-d0e2-0ea215dc9faa/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a16360a6-4588-1cdf-d0e2-0ea215dc9faa/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Odin",
@@ -97,22 +118,27 @@
     },
     {
         "name": "Evori Dreamwings Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6e1ef3fb-4197-87f8-ecfd-98809b0575ec/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6e1ef3fb-4197-87f8-ecfd-98809b0575ec/fullrender.png",
+        "level": "Ultra"
     },
     {
         "name": "Freehand Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/818aa4aa-4e44-606d-bfe7-3abf3fca62ea/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/818aa4aa-4e44-606d-bfe7-3abf3fca62ea/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Aerosol Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/309941f1-48b5-edc2-5e07-eaa7a435fedc/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/309941f1-48b5-edc2-5e07-eaa7a435fedc/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Fortune's Hand Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/60118ac3-429b-7186-5e5d-07af412b2e9a/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/60118ac3-429b-7186-5e5d-07af412b2e9a/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "BlastX Odin",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f55aac92-4420-7038-634a-8fb3fc9a936d/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f55aac92-4420-7038-634a-8fb3fc9a936d/fullrender.png",
+        "level": "Exclusive"
     }
 ]

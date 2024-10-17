@@ -1,0 +1,685 @@
+[
+    {
+        "level": "Select",
+        "skins": [
+            {
+                "skin": "Wonderstallion"
+            },
+            {
+                "skin": "Fortune’s Hand"
+            },
+            {
+                "skin": "Intergrade"
+            },
+            {
+                "skin": "Daydreams"
+            },
+            {
+                "skin": "Reverie"
+            },
+            {
+                "skin": "Endeavor"
+            },
+            {
+                "skin": "Infantry"
+            },
+            {
+                "skin": "Prism II"
+            },
+            {
+                "skin": "Sensation"
+            },
+            {
+                "skin": "Smite"
+            },
+            {
+                "skin": "Convex"
+            },
+            {
+                "skin": "Rush"
+            },
+            {
+                "skin": "Galleria"
+            },
+            {
+                "skin": "Luxe"
+            }
+        ]
+    },
+    {
+        "level": "Deluxe",
+        "skins": [
+            {
+                "skin": "Aperture"
+            },
+            {
+                "skin": "Holomoku"
+            },
+            {
+                "skin": "Emberclad"
+            },
+            {
+                "skin": "Chromedek Collection"
+            },
+            {
+                "skin": "Orion"
+            },
+            {
+                "skin": "NO LIMITS"
+            },
+            {
+                "skin": "Altitude"
+            },
+            {
+                "skin": "Luna"
+            },
+            {
+                "skin": "Abyssal"
+            },
+            {
+                "skin": "Kohaku and Matsuba"
+            },
+            {
+                "skin": "Sarmad"
+            },
+            {
+                "skin": "Titanmail"
+            },
+            {
+                "skin": "Team Ace"
+            },
+            {
+                "skin": "Tigris"
+            },
+            {
+                "skin": "Snowfall"
+            },
+            {
+                "skin": "Nunca Olvidados"
+            },
+            {
+                "skin": "Minima"
+            },
+            {
+                "skin": "Silvanus"
+            },
+            {
+                "skin": "Horizon"
+            },
+            {
+                "skin": "Winterwunderland"
+            },
+            {
+                "skin": "Wasteland"
+            },
+            {
+                "skin": "Prism"
+            },
+            {
+                "skin": "Avalanche"
+            },
+            {
+                "skin": "Sakura"
+            },
+            {
+                "skin": "Aristocrat"
+            }
+        ]
+    },
+    {
+        "level": "Premium",
+        "skins": [
+            {
+                "skin": "Sovereign"
+            },
+            {
+                "skin": "XERØFANG"
+            },
+            {
+                "skin": "Valiant Hero"
+            },
+            {
+                "skin": "Gaia’s Vengeance (Ep 7)"
+            },
+            {
+                "skin": "Magepunk (Ep 6)"
+            },
+            {
+                "skin": "Black.Market"
+            },
+            {
+                "skin": "Oni 2.0"
+            },
+            {
+                "skin": "Cryostasis"
+            },
+            {
+                "skin": "Soulstrife"
+            },
+            {
+                "skin": "Ion 2.0"
+            },
+            {
+                "skin": "Crimsonbeast"
+            },
+            {
+                "skin": "Reaver (Episode 5)"
+            },
+            {
+                "skin": "Xenohunter"
+            },
+            {
+                "skin": "Neptune"
+            },
+            {
+                "skin": "Doodle Buds"
+            },
+            {
+                "skin": "Gaia’s Vengeance (Ep 4)"
+            },
+            {
+                "skin": "Undercity"
+            },
+            {
+                "skin": "Magepunk (Episode 3)"
+            },
+            {
+                "skin": "Radiant Crisis 001"
+            },
+            {
+                "skin": "VALORANT Go! Vol. 2"
+            },
+            {
+                "skin": "Recon"
+            },
+            {
+                "skin": "Origin"
+            },
+            {
+                "skin": "Tethered Realms"
+            },
+            {
+                "skin": "Forsaken"
+            },
+            {
+                "skin": "Magepunk (Ep 2)"
+            },
+            {
+                "skin": "Prime//2.0"
+            },
+            {
+                "skin": "VALORANT Go! Vol. 1"
+            },
+            {
+                "skin": "Celestial"
+            },
+            {
+                "skin": "Ion"
+            },
+            {
+                "skin": "Reaver (Episode 1)"
+            },
+            {
+                "skin": "Gravitational Uranium Neuroblaster (GUN)"
+            },
+            {
+                "skin": "Ego"
+            },
+            {
+                "skin": "Spline"
+            },
+            {
+                "skin": "Nebula"
+            },
+            {
+                "skin": "Oni (Episode 1)"
+            },
+            {
+                "skin": "Sovereign"
+            },
+            {
+                "skin": "Prime"
+            }
+        ]
+    },
+    {
+        "level": "Exclusive",
+        "skins": [
+            {
+                "skin": "Singularity Ep 9"
+            },
+            {
+                "skin": "Nocturnum"
+            },
+            {
+                "skin": "RGX 11z Pro (Ep 9)"
+            },
+            {
+                "skin": "Mystbloom"
+            },
+            {
+                "skin": "Kuronami"
+            },
+            {
+                "skin": "Overdrive"
+            },
+            {
+                "skin": "Sentinels of Light"
+            },
+            {
+                "skin": "Imperium"
+            },
+            {
+                "skin": "Neo Frontier"
+            },
+            {
+                "skin": "Araxys"
+            },
+            {
+                "skin": "Chronovoid"
+            },
+            {
+                "skin": "Prelude to Chaos"
+            },
+            {
+                "skin": "RGX 11z Pro 2.0"
+            },
+            {
+                "skin": "RGX 11z Pro"
+            },
+            {
+                "skin": "Spectrum"
+            },
+            {
+                "skin": "Sentinels of Light"
+            },
+            {
+                "skin": "Ruination"
+            },
+            {
+                "skin": "Glitchpop"
+            },
+            {
+                "skin": "BlastX"
+            },
+            {
+                "skin": "Singularity Ep 1"
+            },
+            {
+                "skin": "Glitchpop 2"
+            }
+        ]
+    },
+    {
+        "level": "Ultra",
+        "skins": [
+            {
+                "skin": "Evori Dreamwings"
+            },
+            {
+                "skin": "Radiant Entertainment System"
+            },
+            {
+                "skin": "Protocol 781-A"
+            },
+            {
+                "skin": "Elderflame"
+            }
+        ]
+    },
+    {
+        "level": "time-limited",
+        "skins": [
+            {
+                "skin": "VCT 2024 Capsules"
+            },
+            {
+                "skin": "The Ignite collection"
+            },
+            {
+                "skin": "Arcane"
+            },
+            {
+                "skin": "Valorant Champions 2021 bundle"
+            },
+            {
+                "skin": "Valorant Champions 2022 bundle"
+            },
+            {
+                "skin": "VCT LOCK//IN capsule"
+            }
+        ]
+    },
+    {
+        "level": "battle pass",
+        "skins": [
+            {
+                "skin": "Yoonseul"
+            },
+            {
+                "skin": "Frequency"
+            },
+            {
+                "skin": "Overlay"
+            },
+            {
+                "skin": "Bubble Pop"
+            },
+            {
+                "skin": "Bumble Brigade"
+            },
+            {
+                "skin": "Convergence"
+            },
+            {
+                "skin": "Tacti-series"
+            },
+            {
+                "skin": "Tactiplay"
+            },
+            {
+                "skin": "Guardrail"
+            },
+            {
+                "skin": "Fiber Optic"
+            },
+            {
+                "skin": "Shellspire"
+            },
+            {
+                "skin": "Retrowave"
+            },
+            {
+                "skin": "Aquatica"
+            },
+            {
+                "skin": "Cloudweaver"
+            },
+            {
+                "skin": "Comet"
+            },
+            {
+                "skin": "Digihex"
+            },
+            {
+                "skin": "Composite"
+            },
+            {
+                "skin": "Blush"
+            },
+            {
+                "skin": "Transition"
+            },
+            {
+                "skin": "RDVR"
+            },
+            {
+                "skin": "Panoramic"
+            },
+            {
+                "skin": "Freehand"
+            },
+            {
+                "skin": "Silhouette"
+            },
+            {
+                "skin": "Sandswept"
+            },
+            {
+                "skin": "Libretto"
+            },
+            {
+                "skin": "Signature"
+            },
+            {
+                "skin": "Tilde"
+            },
+            {
+                "skin": "Topotek"
+            },
+            {
+                "skin": "Gridcrash"
+            },
+            {
+                "skin": "Venturi"
+            },
+            {
+                "skin": "9 Lives Guardian"
+            },
+            {
+                "skin": "Task Force 809"
+            },
+            {
+                "skin": "Spitfire"
+            },
+            {
+                "skin": "Shimmer"
+            },
+            {
+                "skin": "Piedra Del Sol"
+            },
+            {
+                "skin": "Premier Collision"
+            },
+            {
+                "skin": "Immortalized"
+            },
+            {
+                "skin": "Rune Stone"
+            },
+            {
+                "skin": "Iridian Thorn"
+            },
+            {
+                "skin": "Starlit Odyssey"
+            },
+            {
+                "skin": "Hydrodip"
+            },
+            {
+                "skin": "Schema"
+            },
+            {
+                "skin": "Velocity"
+            },
+            {
+                "skin": "Divine Swine"
+            },
+            {
+                "skin": "Striker"
+            },
+            {
+                "skin": "Lycan’s Bane"
+            },
+            {
+                "skin": "Hue Shift"
+            },
+            {
+                "skin": "Coalition: Cobra"
+            },
+            {
+                "skin": ".SYS"
+            },
+            {
+                "skin": "K/TAC"
+            },
+            {
+                "skin": "Jigsaw"
+            },
+            {
+                "skin": "Monarch"
+            },
+            {
+                "skin": "Varnish"
+            },
+            {
+                "skin": "Nitro"
+            },
+            {
+                "skin": "Artisan"
+            },
+            {
+                "skin": "Goldwing"
+            },
+            {
+                "skin": "Aero"
+            },
+            {
+                "skin": "Genesis"
+            },
+            {
+                "skin": "Aerosol"
+            },
+            {
+                "skin": "Infinity"
+            },
+            {
+                "skin": "Outpost"
+            },
+            {
+                "skin": "Polyfrog"
+            },
+            {
+                "skin": "Prism"
+            },
+            {
+                "skin": "Cavalier"
+            },
+            {
+                "skin": "Songsteel"
+            },
+            {
+                "skin": "Depths"
+            },
+            {
+                "skin": "Lightwave"
+            },
+            {
+                "skin": "Kingdom"
+            },
+            {
+                "skin": "Couture"
+            },
+            {
+                "skin": ".EXE"
+            },
+            {
+                "skin": "Hivemind"
+            },
+            {
+                "skin": "Polyfox"
+            },
+            {
+                "skin": "Red Alert"
+            },
+            {
+                "skin": "Serenity"
+            },
+            {
+                "skin": "Surge"
+            },
+            {
+                "skin": "Ruin\n1/24\n<\n>\n<\n>\nValorant agent contract skins"
+            },
+            {
+                "skin": "Astra’s Eclipse Ghost"
+            },
+            {
+                "skin": "Breach’s Ragnarocker Frenzy"
+            },
+            {
+                "skin": "Brimstone’s Peacekeeper Sheriff"
+            },
+            {
+                "skin": "Chamber’s Finesse Classic"
+            },
+            {
+                "skin": "Clove’s Flutter Ghost"
+            },
+            {
+                "skin": "Cypher’s Hush Ghost"
+            },
+            {
+                "skin": "Deadlock’s Resolution Classic"
+            },
+            {
+                "skin": "Fade’s Karabasan Shorty"
+            },
+            {
+                "skin": "Gekko’s Sidekick Shorty"
+            },
+            {
+                "skin": "Harbor’s Wayfarer Sheriff"
+            },
+            {
+                "skin": "Iso’s Mythmaker Sheriff"
+            },
+            {
+                "skin": "Jett’s Game Over Sheriff"
+            },
+            {
+                "skin": "KAY/O’s FIRE/ARM Classic"
+            },
+            {
+                "skin": "Killjoy’s Wunderkind Shorty"
+            },
+            {
+                "skin": "Neon’s Live Wire Frenzy"
+            },
+            {
+                "skin": "Omen’s Soul Silencer Ghost"
+            },
+            {
+                "skin": "Phoenix’s Spitfire Frenzy"
+            },
+            {
+                "skin": "Raze’s Pistolinha Classic"
+            },
+            {
+                "skin": "Reyna’s Vendetta Ghost"
+            },
+            {
+                "skin": "Sage’s Final Chamber Classic"
+            },
+            {
+                "skin": "Skye’s Swooping Frenzy"
+            },
+            {
+                "skin": "Sova’s Proteker Sheriff"
+            },
+            {
+                "skin": "Viper’s Snakebite Shorty"
+            },
+            {
+                "skin": "Yoru’s Death Wish Sheriff"
+            },
+            {
+                "skin": "Episode 09: COLLISION"
+            },
+            {
+                "skin": "Episode 08: DEFIANCE"
+            },
+            {
+                "skin": "Episode 07: EVOLUTION"
+            },
+            {
+                "skin": "Episode 06: REVELATION"
+            },
+            {
+                "skin": "Episode 05: DIMENSION"
+            },
+            {
+                "skin": "Episode 04: DISRUPTION"
+            },
+            {
+                "skin": "Episode 03: REFLECTION"
+            },
+            {
+                "skin": "Episode 02: FORMATION"
+            },
+            {
+                "skin": "Episode 01: IGNITION"
+            }
+        ]
+    }
+]

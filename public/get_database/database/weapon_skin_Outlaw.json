@@ -1,11 +1,13 @@
 [
     {
         "name": "RGX 11z Pro Outlaw",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e85036a7-4f8c-a621-d6cc-c98a6d385dfa/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e85036a7-4f8c-a621-d6cc-c98a6d385dfa/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Overlay Outlaw",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4524c359-4869-284f-5d82-b88358f76c36/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4524c359-4869-284f-5d82-b88358f76c36/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Prism//Reloaded Outlaw",
@@ -13,7 +15,8 @@
     },
     {
         "name": "Aquatica Outlaw",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9c9583ce-4c70-0359-038c-3f8dd080b2fa/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9c9583ce-4c70-0359-038c-3f8dd080b2fa/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Standard",
@@ -25,14 +28,17 @@
     },
     {
         "name": "Cloudweaver Outlaw",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/cdef4c94-4c3e-8e2c-c35a-728d0960f038/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/cdef4c94-4c3e-8e2c-c35a-728d0960f038/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Ego Outlaw",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/bb8acb8d-42a0-01ce-c342-168b674aab2d/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/bb8acb8d-42a0-01ce-c342-168b674aab2d/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Holomoku Outlaw",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/718571ae-4015-bd40-6442-cfae5748d8f2/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/718571ae-4015-bd40-6442-cfae5748d8f2/fullrender.png",
+        "level": "Deluxe"
     }
 ]

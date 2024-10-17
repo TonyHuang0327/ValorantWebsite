@@ -5,23 +5,28 @@
     },
     {
         "name": "Fiber Optic Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/323fa3dc-488d-e9e2-3cbd-2799ae6a5acc/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/323fa3dc-488d-e9e2-3cbd-2799ae6a5acc/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Frequency Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/1a5114c5-4141-6ea1-c601-cd860b5916d3/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/1a5114c5-4141-6ea1-c601-cd860b5916d3/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "VALORANT GO! Vol. 1 Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5e51e03e-4c60-3d76-83c0-6eb3d98405ec/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5e51e03e-4c60-3d76-83c0-6eb3d98405ec/fullrender.png",
+        "level": "time-limited"
     },
     {
         "name": "Radiant Entertainment System Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/04c7e366-4563-be98-e870-66889e4f5dc4/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/04c7e366-4563-be98-e870-66889e4f5dc4/fullrender.png",
+        "level": "Ultra"
     },
     {
         "name": "Gaia's Vengeance Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/47424591-4a33-eb97-f90e-78998bfe2d41/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/47424591-4a33-eb97-f90e-78998bfe2d41/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Endeavour Ghost",
@@ -29,31 +34,38 @@
     },
     {
         "name": "Piedra del Sol Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/582f5609-4ba2-1e31-d830-8c843bc2d8ab/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/582f5609-4ba2-1e31-d830-8c843bc2d8ab/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Bumble Brigade Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/aea32013-4370-09f8-e7a6-4fba9d663aa3/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/aea32013-4370-09f8-e7a6-4fba9d663aa3/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Comet Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/16bc8e6d-4ae5-ccf7-fd5a-5aadaad5effe/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/16bc8e6d-4ae5-ccf7-fd5a-5aadaad5effe/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Starlit Odyssey Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4e362535-4f11-253e-c9ef-93a1e5f46f60/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4e362535-4f11-253e-c9ef-93a1e5f46f60/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Topotek Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/94bae03c-4559-ab68-87e2-b0a0ca90b003/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/94bae03c-4559-ab68-87e2-b0a0ca90b003/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Spitfire Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/aeaa83d1-48b6-faec-d176-97833ac00197/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/aeaa83d1-48b6-faec-d176-97833ac00197/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": ".EXE Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/12966603-4cb3-03dd-bf2e-338fb15d144f/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/12966603-4cb3-03dd-bf2e-338fb15d144f/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Hush Ghost",
@@ -61,67 +73,83 @@
     },
     {
         "name": "Soulstrife Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5cd91f20-4328-aee3-a360-e39e5096915d/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5cd91f20-4328-aee3-a360-e39e5096915d/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Digihex Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b95be8bd-4318-3d88-9e0d-bfa1dcca5818/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b95be8bd-4318-3d88-9e0d-bfa1dcca5818/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Infantry Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/962aaf76-4edf-21dd-93f7-b6b3a0d46d28/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/962aaf76-4edf-21dd-93f7-b6b3a0d46d28/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Goldwing Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2679f649-4492-4442-da6e-a5b841bf9ed2/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2679f649-4492-4442-da6e-a5b841bf9ed2/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "XERØFANG Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/210b969e-496c-29fc-d2f3-7da9bfeb618f/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/210b969e-496c-29fc-d2f3-7da9bfeb618f/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Outpost Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/20e2f0ee-43a8-5b68-403d-4a8c3158619d/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/20e2f0ee-43a8-5b68-403d-4a8c3158619d/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Prism Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/bea3e75c-4156-e05d-dd06-70acf06ccf96/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/bea3e75c-4156-e05d-dd06-70acf06ccf96/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Serenity Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/27e0b39a-4f38-d19e-fa71-40b63567a909/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/27e0b39a-4f38-d19e-fa71-40b63567a909/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Ruination Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d3e54726-42c9-f5a1-6fa4-af9bce033eaf/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d3e54726-42c9-f5a1-6fa4-af9bce033eaf/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Luxe Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f0d9bad3-4c59-743e-c5da-54bab6d7c328/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f0d9bad3-4c59-743e-c5da-54bab6d7c328/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Magepunk Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/74f79cb4-4c46-200d-0a4f-838908f1970a/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/74f79cb4-4c46-200d-0a4f-838908f1970a/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Valiant Hero Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/564f2896-445a-c47d-a128-69862e679e8f/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/564f2896-445a-c47d-a128-69862e679e8f/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Libretto Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c6e33017-46b9-2d5d-3f35-52b6961770f8/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c6e33017-46b9-2d5d-3f35-52b6961770f8/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Artisan Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/92c43211-412d-6c8e-7b64-1094d5b547a0/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/92c43211-412d-6c8e-7b64-1094d5b547a0/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Jigsaw Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9ccadf9e-4a56-94a7-bcb5-b0b075b2ebcb/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9ccadf9e-4a56-94a7-bcb5-b0b075b2ebcb/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Luna Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f78f05bd-46cc-cadc-82d8-66b3c0e43eac/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f78f05bd-46cc-cadc-82d8-66b3c0e43eac/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Standard",
@@ -133,27 +161,33 @@
     },
     {
         "name": "Lycan's Bane Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/50694c36-4d57-6d9c-8a41-0aaeaf5258fb/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/50694c36-4d57-6d9c-8a41-0aaeaf5258fb/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Reaver Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/04bcace1-4d82-7093-f812-a5bff8306a54/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/04bcace1-4d82-7093-f812-a5bff8306a54/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Tethered Realms Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/702acc78-4bfe-805c-d4fb-5ba8815e8029/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/702acc78-4bfe-805c-d4fb-5ba8815e8029/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Sovereign Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a84764d9-4f1e-a652-3530-1497e2505285/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a84764d9-4f1e-a652-3530-1497e2505285/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Recon Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d1cb1e03-4e7a-f965-7b34-52875787f832/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d1cb1e03-4e7a-f965-7b34-52875787f832/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Cavalier Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/316ce231-48eb-a875-95ab-9caa53cfaee1/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/316ce231-48eb-a875-95ab-9caa53cfaee1/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Ghost",
@@ -161,31 +195,38 @@
     },
     {
         "name": "Evori Dreamwings Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3785dd7b-4c1e-7c69-9837-bca7c9756376/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3785dd7b-4c1e-7c69-9837-bca7c9756376/fullrender.png",
+        "level": "Ultra"
     },
     {
         "name": "Freehand Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f9f14faa-4246-f575-1d8a-f69af302f82c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f9f14faa-4246-f575-1d8a-f69af302f82c/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Gridcrash Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/914f4435-4abc-e89d-e698-369cae3a8a4c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/914f4435-4abc-e89d-e698-369cae3a8a4c/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Fortune's Hand Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3629f26f-43de-d7a0-7332-5a8b4359efea/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3629f26f-43de-d7a0-7332-5a8b4359efea/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "NO LIMITS Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9e1d4dcf-43f9-4f6a-9374-06b9071be48f/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9e1d4dcf-43f9-4f6a-9374-06b9071be48f/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Depths Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/02cc5691-4a5f-76b2-a73c-7ca6a1f5efda/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/02cc5691-4a5f-76b2-a73c-7ca6a1f5efda/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Ego Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c8e92efe-4cde-8c70-4d8b-32bf22f72091/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c8e92efe-4cde-8c70-4d8b-32bf22f72091/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Vendetta Ghost",
@@ -193,7 +234,8 @@
     },
     {
         "name": "Winterwunderland Ghost",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c7a8c169-4ee3-fac8-0d03-e4a5b42308f1/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c7a8c169-4ee3-fac8-0d03-e4a5b42308f1/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Soul Silencer Ghost",

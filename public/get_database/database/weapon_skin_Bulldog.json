@@ -1,19 +1,23 @@
 [
     {
         "name": "Frequency Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e769943f-401e-dcf6-4036-4a86eb2e121d/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e769943f-401e-dcf6-4036-4a86eb2e121d/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Araxys Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ea8c7f51-4e3e-2593-2d37-eaa0119b9829/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ea8c7f51-4e3e-2593-2d37-eaa0119b9829/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Radiant Entertainment System Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/09787460-4968-bfe4-8aea-1fb276a2f628/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/09787460-4968-bfe4-8aea-1fb276a2f628/fullrender.png",
+        "level": "Ultra"
     },
     {
         "name": "Aristocrat Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d2710367-42b2-cf4e-8b87-2f9d09a41261/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d2710367-42b2-cf4e-8b87-2f9d09a41261/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Endeavour Bulldog",
@@ -21,67 +25,83 @@
     },
     {
         "name": "Spectrum Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/8193b0d6-4f05-42f0-88fc-a9a8fca32f51/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/8193b0d6-4f05-42f0-88fc-a9a8fca32f51/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Bumble Brigade Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4da2eae2-4c02-bf35-ddeb-d8814ca59a97/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4da2eae2-4c02-bf35-ddeb-d8814ca59a97/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Tactiplay Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6e6e2dbc-4c96-a404-0a0f-e38fb68f51d3/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6e6e2dbc-4c96-a404-0a0f-e38fb68f51d3/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Striker Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/560ca9c8-4442-cd13-0fee-288995026741/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/560ca9c8-4442-cd13-0fee-288995026741/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Rune Stone Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c4508633-4701-a745-251d-0bb0884f14ef/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c4508633-4701-a745-251d-0bb0884f14ef/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Nocturnum Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/75f1f419-44d7-e378-9db0-d496066fd7bb/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/75f1f419-44d7-e378-9db0-d496066fd7bb/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Undercity Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a4621718-48a3-f8ce-d17c-d39ad4c085f0/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a4621718-48a3-f8ce-d17c-d39ad4c085f0/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Glitchpop Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f7dd47c7-467b-36f1-0d13-beb53372b666/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f7dd47c7-467b-36f1-0d13-beb53372b666/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Emberclad Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a5211ecf-4bac-2dc7-c70f-339039c973e9/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a5211ecf-4bac-2dc7-c70f-339039c973e9/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Rush Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f9ec80f9-498b-fab1-cc27-9c867aa1de49/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f9ec80f9-498b-fab1-cc27-9c867aa1de49/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Chromedek Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f396b220-4a4e-b81b-663d-aaac2cf0c2dd/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f396b220-4a4e-b81b-663d-aaac2cf0c2dd/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Velocity Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e4e3aa91-444c-38d4-f485-e9a562d32d95/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e4e3aa91-444c-38d4-f485-e9a562d32d95/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Shimmer Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/25b03c95-43d9-a69c-22e7-06b47184dd57/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/25b03c95-43d9-a69c-22e7-06b47184dd57/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Digihex Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ce2f7e2c-456f-344e-d800-2a86eae7cdca/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ce2f7e2c-456f-344e-d800-2a86eae7cdca/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Horizon Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/383ec3db-4a96-9cb3-473f-849185937687/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/383ec3db-4a96-9cb3-473f-849185937687/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Black.Market Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/12ae9457-43c9-ec30-c37d-f8a52f4ae3d1/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/12ae9457-43c9-ec30-c37d-f8a52f4ae3d1/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Bound Bulldog",
@@ -89,15 +109,18 @@
     },
     {
         "name": "Retrowave Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f8f65a5f-4150-2a33-1dde-97957681b429/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f8f65a5f-4150-2a33-1dde-97957681b429/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "K/TAC Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/286a59dc-4494-889c-59c9-ef8604539eed/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/286a59dc-4494-889c-59c9-ef8604539eed/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Couture Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/561fa49e-465e-51eb-4517-93ab0105ff44/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/561fa49e-465e-51eb-4517-93ab0105ff44/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Aemondir Bulldog",
@@ -105,35 +128,43 @@
     },
     {
         "name": "Nunca Olvidados Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d84359a7-4f3d-d1f1-7809-54b12458f580/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d84359a7-4f3d-d1f1-7809-54b12458f580/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Genesis Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/49c0b811-4c16-b68f-b074-4f81d8f0563c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/49c0b811-4c16-b68f-b074-4f81d8f0563c/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Libretto Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2488f202-4640-d6ae-f319-c9bba0a2fb72/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2488f202-4640-d6ae-f319-c9bba0a2fb72/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Oni Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/bd5e78fd-4e38-4229-a241-bd8505ed505b/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/bd5e78fd-4e38-4229-a241-bd8505ed505b/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Cryostasis Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b4b15d7b-42d2-c6f5-d52d-a794df03b882/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b4b15d7b-42d2-c6f5-d52d-a794df03b882/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Hue Shift Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/7a5c47c8-4e83-917d-b0bf-dda86932d6ea/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/7a5c47c8-4e83-917d-b0bf-dda86932d6ea/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "POLYfox Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/28cf13a9-4457-027e-2c1f-6388ccc870f0/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/28cf13a9-4457-027e-2c1f-6388ccc870f0/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Protocol 781-A Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/77b09a8e-45c4-47e2-449f-44bd6f3a2f7a/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/77b09a8e-45c4-47e2-449f-44bd6f3a2f7a/fullrender.png",
+        "level": "Ultra"
     },
     {
         "name": "Premiere Collision Bulldog",
@@ -145,11 +176,13 @@
     },
     {
         "name": "Transition Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/1898e524-40b0-9e4b-5863-90b40a146958/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/1898e524-40b0-9e4b-5863-90b40a146958/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Infinity Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/01f3fffe-4306-7b4b-9cb8-afb0027f4cf9/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/01f3fffe-4306-7b4b-9cb8-afb0027f4cf9/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Bulldog",
@@ -157,27 +190,33 @@
     },
     {
         "name": "Tilde Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a6f4b6f4-41c9-9441-b35f-47bd950a2e87/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a6f4b6f4-41c9-9441-b35f-47bd950a2e87/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Gridcrash Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6a8c8af7-4e22-0f4e-e78a-19b32dacc8da/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6a8c8af7-4e22-0f4e-e78a-19b32dacc8da/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "NO LIMITS Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5b1afe39-404b-3d9a-2375-09a45096eb60/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5b1afe39-404b-3d9a-2375-09a45096eb60/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Convex Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/1789be1e-42fb-a43a-2f40-eb9b793481b0/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/1789be1e-42fb-a43a-2f40-eb9b793481b0/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Depths Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e455f87b-4afc-f2ea-22de-5ab5fe7ef7f5/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e455f87b-4afc-f2ea-22de-5ab5fe7ef7f5/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Holomoku Bulldog",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e1f3e4c8-4290-ee41-26f0-14a994b20d1f/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e1f3e4c8-4290-ee41-26f0-14a994b20d1f/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Standard",

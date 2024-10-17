@@ -1,19 +1,22 @@
 [
     {
-        "name": "Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/95608504-4c8b-1408-1612-0f8200421c49/fullrender.png"
+        "name": "Standard",
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4c2160d7-4650-5bd8-24b1-a1b83be8b0c4/fullrender.png"
     },
     {
-        "name": "Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/95608504-4c8b-1408-1612-0f8200421c49/fullrender.png"
+        "name": "Araxys Shorty",
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6ffa2b8b-4f19-4352-50fc-1fae04534611/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Neptune Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/90e6f275-4d58-7a80-cdaa-bdbeca6712a3/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/90e6f275-4d58-7a80-cdaa-bdbeca6712a3/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Gaia's Vengeance Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/17448e46-4be1-6f91-ba25-1a9f74a988c6/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/17448e46-4be1-6f91-ba25-1a9f74a988c6/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Karabasan Shorty",
@@ -21,31 +24,38 @@
     },
     {
         "name": "Rune Stone Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9c81a88b-47d1-0813-1534-088e9e9678d6/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9c81a88b-47d1-0813-1534-088e9e9678d6/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Prelude to Chaos Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/737ba496-4e0a-2e8a-ad46-27a8c58fb3ed/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/737ba496-4e0a-2e8a-ad46-27a8c58fb3ed/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Doodle Buds Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/8341e29e-4faa-e5c6-b6db-c2bcfbdfbc55/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/8341e29e-4faa-e5c6-b6db-c2bcfbdfbc55/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Chromedek Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d48011de-4ccc-18e8-6352-e18cd9d02b6c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d48011de-4ccc-18e8-6352-e18cd9d02b6c/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Hivemind Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/abd361b4-43a6-728c-376a-529b1f599ab9/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/abd361b4-43a6-728c-376a-529b1f599ab9/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Velocity Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a1f3c919-432c-05f4-0afe-52a3a9c2475c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a1f3c919-432c-05f4-0afe-52a3a9c2475c/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Ruin Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ef08044d-4934-a38f-0ff9-63886354d59b/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ef08044d-4934-a38f-0ff9-63886354d59b/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Primordium Shorty",
@@ -53,19 +63,23 @@
     },
     {
         "name": "Monarch Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c6d322a1-4bf0-9cce-0d92-f78ddfddda8b/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c6d322a1-4bf0-9cce-0d92-f78ddfddda8b/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Guardrail Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/555b89ad-4937-5664-78b5-df842f1e83a0/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/555b89ad-4937-5664-78b5-df842f1e83a0/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Prism II Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/49ba0b3a-4418-7362-c671-bca65b913fc0/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/49ba0b3a-4418-7362-c671-bca65b913fc0/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Aquatica Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/7c37259e-419d-920a-46da-9d8940a0f581/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/7c37259e-419d-920a-46da-9d8940a0f581/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Wunderkind Shorty",
@@ -73,11 +87,13 @@
     },
     {
         "name": "Genesis Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/25533658-431e-9634-6cb5-c7b94e535c87/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/25533658-431e-9634-6cb5-c7b94e535c87/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Oni Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/212df9b7-4f66-ce5d-687a-a8a80c7b5976/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/212df9b7-4f66-ce5d-687a-a8a80c7b5976/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Snakebite Shorty",
@@ -85,7 +101,8 @@
     },
     {
         "name": "Hue Shift Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/73db26ce-42da-5971-7d83-8ba0fb998612/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/73db26ce-42da-5971-7d83-8ba0fb998612/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Standard",
@@ -93,11 +110,13 @@
     },
     {
         "name": "Sentinels of Light Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/8d6c9af5-4827-d46c-5245-49a7287f225c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/8d6c9af5-4827-d46c-5245-49a7287f225c/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Transition Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0aff787a-46ef-4197-2e11-938d58bbd764/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0aff787a-46ef-4197-2e11-938d58bbd764/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Shorty",
@@ -105,15 +124,18 @@
     },
     {
         "name": "Aerosol Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/acefbdfb-40e8-4d41-d879-d188dc6e01a1/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/acefbdfb-40e8-4d41-d879-d188dc6e01a1/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Tilde Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/69df9ff4-4441-12ff-94fc-1f84b37ad8a5/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/69df9ff4-4441-12ff-94fc-1f84b37ad8a5/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Cloudweaver Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/dbc57d4e-416b-69ad-f394-d192dcde22e2/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/dbc57d4e-416b-69ad-f394-d192dcde22e2/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Standard",
@@ -125,6 +147,7 @@
     },
     {
         "name": "Wasteland Shorty",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/701655f9-43d8-1c72-f567-acac565fd353/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/701655f9-43d8-1c72-f567-acac565fd353/fullrender.png",
+        "level": "Deluxe"
     }
 ]

@@ -1,27 +1,33 @@
 [
     {
         "name": "Immortalized Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/297c7dae-4e11-6d00-ae5f-0cb9ec868d87/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/297c7dae-4e11-6d00-ae5f-0cb9ec868d87/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "RGX 11z Pro Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/04b12bb8-4ba5-6611-ec16-02862bcfb939/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/04b12bb8-4ba5-6611-ec16-02862bcfb939/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Intergrade Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a72a6c05-42f2-76d3-2c45-37869ac2e891/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a72a6c05-42f2-76d3-2c45-37869ac2e891/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "VALORANT GO! Vol. 1 Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3628cc8a-4153-9561-74a3-ea8f1ac7e0e4/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3628cc8a-4153-9561-74a3-ea8f1ac7e0e4/fullrender.png",
+        "level": "time-limited"
     },
     {
         "name": "Neptune Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/81edf2ce-4919-03e6-5c49-c8a48648eea0/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/81edf2ce-4919-03e6-5c49-c8a48648eea0/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Gaia's Vengeance Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/275dc4de-4b7c-9423-e64b-498b63693755/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/275dc4de-4b7c-9423-e64b-498b63693755/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "MK.VII Liberty Guardian",
@@ -29,19 +35,23 @@
     },
     {
         "name": "Spectrum Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/52dd7feb-4e82-2fcb-c341-2aa308321064/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/52dd7feb-4e82-2fcb-c341-2aa308321064/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Starlit Odyssey Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f239edb5-467a-d4f2-c78d-5f81ce8162c1/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f239edb5-467a-d4f2-c78d-5f81ce8162c1/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Nebula Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e6f6e321-4de6-5d25-69ea-baa30d693373/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e6f6e321-4de6-5d25-69ea-baa30d693373/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Abyssal Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c2c15a3b-4883-362d-c155-d0a4b007804c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c2c15a3b-4883-362d-c155-d0a4b007804c/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Standard",
@@ -49,67 +59,83 @@
     },
     {
         "name": "Songsteel Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/09ad889f-4f6b-038e-9b72-23a8203f393f/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/09ad889f-4f6b-038e-9b72-23a8203f393f/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Spitfire Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d7fa6b9a-4623-788c-801a-2896a6177ab3/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d7fa6b9a-4623-788c-801a-2896a6177ab3/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Ruin Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5e4d839c-4f56-5173-088e-5cac4a2e5e67/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5e4d839c-4f56-5173-088e-5cac4a2e5e67/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Soulstrife Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e63d9171-42b5-908d-1ae6-17a02cd60e55/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e63d9171-42b5-908d-1ae6-17a02cd60e55/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Infantry Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3292c7e0-402f-70e2-f189-4ba34fcf7af4/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3292c7e0-402f-70e2-f189-4ba34fcf7af4/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Hydrodip Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0b3070f7-43f8-845a-c45f-e18f9f126b1f/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0b3070f7-43f8-845a-c45f-e18f9f126b1f/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Prime Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e2f5a979-4e9a-f931-7f52-d99f0ec4a61b/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/e2f5a979-4e9a-f931-7f52-d99f0ec4a61b/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Bubble Pop Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/26e3feb2-40cb-20ae-8be6-729ba01ae62f/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/26e3feb2-40cb-20ae-8be6-729ba01ae62f/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Guardrail Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9dfe46ec-4632-559c-4588-f18744862ac1/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9dfe46ec-4632-559c-4588-f18744862ac1/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Yoonseul Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/bd8a65e3-49f0-c583-5676-01826902cb2c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/bd8a65e3-49f0-c583-5676-01826902cb2c/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Ruination Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3f621c8c-4fa8-b50c-969f-c5b4e8bdc3c9/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3f621c8c-4fa8-b50c-969f-c5b4e8bdc3c9/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Blush Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/794e1185-4579-003a-b37a-bc84bbfe81d5/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/794e1185-4579-003a-b37a-bc84bbfe81d5/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Magepunk Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6415fc9e-475b-2af7-cee4-8586e68384f8/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6415fc9e-475b-2af7-cee4-8586e68384f8/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Tacti-Series Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/14f3dcda-4b66-0eb5-d712-36a50176719b/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/14f3dcda-4b66-0eb5-d712-36a50176719b/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Signature Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6c1c1710-48f1-a0b6-01a1-049995413b3f/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/6c1c1710-48f1-a0b6-01a1-049995413b3f/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Galleria Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/fc0c6d41-496e-5ac5-6c8f-9787f4e71c0d/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/fc0c6d41-496e-5ac5-6c8f-9787f4e71c0d/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Moondash Guardian",
@@ -117,23 +143,28 @@
     },
     {
         "name": "Oni Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9e97de52-4080-8311-2505-8faade37fe46/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/9e97de52-4080-8311-2505-8faade37fe46/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "9 Lives Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ad3f37b1-431d-ae7c-4de0-68b29236d729/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ad3f37b1-431d-ae7c-4de0-68b29236d729/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Aero Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/fe2861de-4738-79a8-7a45-6bb09bca2852/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/fe2861de-4738-79a8-7a45-6bb09bca2852/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "POLYfox Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ff80bbbf-4212-5289-32a4-1b8da95f52ca/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ff80bbbf-4212-5289-32a4-1b8da95f52ca/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Jigsaw Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/38c72886-4b82-3403-38ad-afa701684ffd/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/38c72886-4b82-3403-38ad-afa701684ffd/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Standard",
@@ -141,39 +172,48 @@
     },
     {
         "name": "Panoramic Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3816271c-4c65-d218-f8b6-c79c7048b607/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3816271c-4c65-d218-f8b6-c79c7048b607/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Silhouette Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b0519091-4d64-831f-2b22-9981ae91b413/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b0519091-4d64-831f-2b22-9981ae91b413/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Shellspire Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3025dc02-4c67-6cfa-2188-fdaf95d3a6de/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/3025dc02-4c67-6cfa-2188-fdaf95d3a6de/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Reaver Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/bb9f9fb7-46ca-4ddf-1b83-b8b1fc0401d9/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/bb9f9fb7-46ca-4ddf-1b83-b8b1fc0401d9/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Tethered Realms Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/549b4ed5-493f-23a2-4350-b095dfdd0deb/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/549b4ed5-493f-23a2-4350-b095dfdd0deb/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Sovereign Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/df1786b2-4f3d-f207-b92c-0780f4dffb79/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/df1786b2-4f3d-f207-b92c-0780f4dffb79/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Recon Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/03148944-41ad-a622-2b81-6982b023c47c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/03148944-41ad-a622-2b81-6982b023c47c/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Infinity Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4564f4cc-40e5-4413-5bf9-91b5d7f27ce3/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4564f4cc-40e5-4413-5bf9-91b5d7f27ce3/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Reverie Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ac12901e-4a8d-6d50-663a-d18efdae2ef8/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ac12901e-4a8d-6d50-663a-d18efdae2ef8/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Guardian",
@@ -181,14 +221,17 @@
     },
     {
         "name": "Fortune's Hand Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/8a7b171e-4bdc-730d-5ec4-f08be6531186/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/8a7b171e-4bdc-730d-5ec4-f08be6531186/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Wonderstallion Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ca2a999f-4762-7a69-8c28-429b325746d6/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ca2a999f-4762-7a69-8c28-429b325746d6/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Ego Guardian",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4648ecfb-4667-77b7-2723-d3a531a942ea/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4648ecfb-4667-77b7-2723-d3a531a942ea/fullrender.png",
+        "level": "Premium"
     }
 ]

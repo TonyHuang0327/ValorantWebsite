@@ -1,79 +1,98 @@
 [
     {
         "name": "Task Force 809 Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/7d3cb935-4301-e73f-ca90-ecbf58612c44/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/7d3cb935-4301-e73f-ca90-ecbf58612c44/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Fiber Optic Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a4581c31-4e72-afc0-68b0-fd96e71515be/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a4581c31-4e72-afc0-68b0-fd96e71515be/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "RGX 11z Pro Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/864a834b-4637-08d8-0a3d-cdbb317afb95/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/864a834b-4637-08d8-0a3d-cdbb317afb95/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Intergrade Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d9c82538-4a18-419f-f71f-8aa5d0c46214/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d9c82538-4a18-419f-f71f-8aa5d0c46214/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "VALORANT GO! Vol. 1 Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/09d52346-42ba-8832-5981-c98db65774b8/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/09d52346-42ba-8832-5981-c98db65774b8/fullrender.png",
+        "level": "time-limited"
     },
     {
         "name": "Neptune Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b237dd0e-485e-c438-03f0-9ea6b12dc13d/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b237dd0e-485e-c438-03f0-9ea6b12dc13d/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Striker Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/fd6830da-4b56-ed28-b5b4-259c1a781336/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/fd6830da-4b56-ed28-b5b4-259c1a781336/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Comet Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/564228cb-429c-73f4-015b-f3921cd70cdf/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/564228cb-429c-73f4-015b-f3921cd70cdf/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Radiant Crisis 001 Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/750dda5b-4aac-6381-82f6-6b9c08dd783b/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/750dda5b-4aac-6381-82f6-6b9c08dd783b/fullrender.png",
+        "level": "Ultra"
     },
     {
         "name": "Starlit Odyssey Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/57df5949-46ab-5458-2cbc-66b519a495ad/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/57df5949-46ab-5458-2cbc-66b519a495ad/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Emberclad Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/60282271-4086-c2ca-9df1-ca8bac664b3b/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/60282271-4086-c2ca-9df1-ca8bac664b3b/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Abyssal Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/45bfac23-4e59-1f99-2e4c-9fa9c9ead038/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/45bfac23-4e59-1f99-2e4c-9fa9c9ead038/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Singularity Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/da0d77b2-49b4-148d-e32e-d79aef1b3829/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/da0d77b2-49b4-148d-e32e-d79aef1b3829/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Sarmad Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/92fa6a1d-44aa-fae7-a478-3d9233be5063/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/92fa6a1d-44aa-fae7-a478-3d9233be5063/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Hivemind Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0bf12530-4abb-8851-0420-199af20c2a2a/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0bf12530-4abb-8851-0420-199af20c2a2a/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Venturi Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5fbd3df7-4169-0a46-c905-eb86fe84e35b/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5fbd3df7-4169-0a46-c905-eb86fe84e35b/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Forsaken Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b3e64067-4afc-05a6-85b7-b8a983ca6c29/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b3e64067-4afc-05a6-85b7-b8a983ca6c29/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Velocity Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b4d73cba-4dba-8f6b-d45f-0ea4754bd0be/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b4d73cba-4dba-8f6b-d45f-0ea4754bd0be/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Soulstrife Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/fc7005c4-4455-7298-b5fb-b182031d882b/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/fc7005c4-4455-7298-b5fb-b182031d882b/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Primordium Spectre",
@@ -81,43 +100,53 @@
     },
     {
         "name": "Infantry Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ae7f22d9-43cb-dd44-4509-b19b3d98c381/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/ae7f22d9-43cb-dd44-4509-b19b3d98c381/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Horizon Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/64caaf1d-47ba-227f-6fd3-75b56947b288/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/64caaf1d-47ba-227f-6fd3-75b56947b288/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Prime Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/48b6e421-4f93-5a00-62b3-20a1d320b040/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/48b6e421-4f93-5a00-62b3-20a1d320b040/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Avalanche Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4cc2203e-4ee9-1dbf-fd6b-3597cc965540/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4cc2203e-4ee9-1dbf-fd6b-3597cc965540/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Prism Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0b9bb062-41f3-5e60-91b7-ec91e0f22dbe/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0b9bb062-41f3-5e60-91b7-ec91e0f22dbe/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Serenity Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/93d4333a-4aaf-5b7f-8f75-ba8a6e261762/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/93d4333a-4aaf-5b7f-8f75-ba8a6e261762/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Yoonseul Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/929e46e0-4fc3-9b83-2c00-88a5f33a0cf3/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/929e46e0-4fc3-9b83-2c00-88a5f33a0cf3/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Ruination Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2b9bf65a-43df-25d7-71dc-c9a21491653b/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/2b9bf65a-43df-25d7-71dc-c9a21491653b/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Kingdom Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/10da9310-479f-df03-8229-809a69115ff3/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/10da9310-479f-df03-8229-809a69115ff3/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Blush Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/662ba954-40d4-9e88-49ce-2688b3fa4488/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/662ba954-40d4-9e88-49ce-2688b3fa4488/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Monstrocity Spectre",
@@ -125,47 +154,58 @@
     },
     {
         "name": "Luxe Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c1959560-4b63-054a-0ad1-fba311b6b50a/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/c1959560-4b63-054a-0ad1-fba311b6b50a/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Magepunk Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a6d22d7f-40a2-cc4a-3a37-f3ad4ae2e4e0/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/a6d22d7f-40a2-cc4a-3a37-f3ad4ae2e4e0/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Spline Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0eb31648-47c2-7922-a944-c1904757640c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0eb31648-47c2-7922-a944-c1904757640c/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Minima Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0d608736-4753-dff9-c62d-e9b43f038317/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0d608736-4753-dff9-c62d-e9b43f038317/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Kuronami Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d5c3eb89-4674-7758-ea58-f99cdcee4cdf/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d5c3eb89-4674-7758-ea58-f99cdcee4cdf/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Ion Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f97b465b-467e-f7ce-d3d1-4981cbd23954/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/f97b465b-467e-f7ce-d3d1-4981cbd23954/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Hue Shift Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/66a8d891-4c73-c199-57ce-0090b25cc925/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/66a8d891-4c73-c199-57ce-0090b25cc925/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Aero Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5f339b4d-4f97-5592-ea37-7b9668d7c6ed/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/5f339b4d-4f97-5592-ea37-7b9668d7c6ed/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "POLYfrog Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/612218c7-4612-71e0-f51e-bc89c2a1c999/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/612218c7-4612-71e0-f51e-bc89c2a1c999/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Protocol 781-A Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/52c1070e-4635-44fc-d1d0-6da60c93bea1/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/52c1070e-4635-44fc-d1d0-6da60c93bea1/fullrender.png",
+        "level": "Ultra"
     },
     {
         "name": "Luna Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d2ac3268-40b9-a72c-1e2c-4fa557dfd546/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/d2ac3268-40b9-a72c-1e2c-4fa557dfd546/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Standard",
@@ -173,27 +213,33 @@
     },
     {
         "name": "Gravitational Uranium Neuroblaster Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/271728d3-47c2-cc82-f850-debaad2f84c8/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/271728d3-47c2-cc82-f850-debaad2f84c8/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Sentinels of Light Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0ecb515f-4db2-258b-35c9-79ad415320e6/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/0ecb515f-4db2-258b-35c9-79ad415320e6/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Shellspire Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/996d2ecb-4e36-927f-269c-789ae4c0d3d7/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/996d2ecb-4e36-927f-269c-789ae4c0d3d7/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Reaver Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/1cb0fe08-40f8-431c-0cde-129fcd217cc4/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/1cb0fe08-40f8-431c-0cde-129fcd217cc4/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Recon Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/cd3cec90-4ac5-c499-a29f-0dbc9e0b8004/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/cd3cec90-4ac5-c499-a29f-0dbc9e0b8004/fullrender.png",
+        "level": "Premium"
     },
     {
         "name": "Infinity Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/aaf8afea-4528-e036-cb86-b2b004fa8bb2/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/aaf8afea-4528-e036-cb86-b2b004fa8bb2/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Spectre",
@@ -201,11 +247,13 @@
     },
     {
         "name": "Evori Dreamwings Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/af0fdfeb-464e-c286-ed47-73af602674fb/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/af0fdfeb-464e-c286-ed47-73af602674fb/fullrender.png",
+        "level": "Ultra"
     },
     {
         "name": "Freehand Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4bc81f65-48ee-58c0-eb45-a7a0573ce4b7/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/4bc81f65-48ee-58c0-eb45-a7a0573ce4b7/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Standard",
@@ -213,26 +261,32 @@
     },
     {
         "name": "NO LIMITS Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/cba0b54e-4a6c-9cb4-66c9-3ca967e88d0c/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/cba0b54e-4a6c-9cb4-66c9-3ca967e88d0c/fullrender.png",
+        "level": "Deluxe"
     },
     {
         "name": "Sandswept Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/03b78d41-46a6-2997-5405-7ca3adc3a007/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/03b78d41-46a6-2997-5405-7ca3adc3a007/fullrender.png",
+        "level": "battle pass"
     },
     {
         "name": "Convex Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b6a4a45d-4592-8216-21ac-c7bc26e947ba/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b6a4a45d-4592-8216-21ac-c7bc26e947ba/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "BlastX Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/1b2e57e5-454a-53f2-d62b-fd8690ae86c6/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/1b2e57e5-454a-53f2-d62b-fd8690ae86c6/fullrender.png",
+        "level": "Exclusive"
     },
     {
         "name": "Wonderstallion Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b96de64e-49e9-95ac-91e3-a2ba22728488/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/b96de64e-49e9-95ac-91e3-a2ba22728488/fullrender.png",
+        "level": "Select"
     },
     {
         "name": "Wasteland Spectre",
-        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/967fc785-4b8e-0e3c-6232-07b20c01dc81/fullrender.png"
+        "image": "https://titles.trackercdn.com/valorant-api/weaponskinchromas/967fc785-4b8e-0e3c-6232-07b20c01dc81/fullrender.png",
+        "level": "Deluxe"
     }
 ]
