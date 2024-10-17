@@ -1,4 +1,5 @@
 const express = require("express");
+const router = require("./router/nightmarket");
 const app = express();
 const port = 8080;
 
@@ -9,6 +10,9 @@ app.use(express.static(__dirname + '/public')); // 確保這裡正確指向 publ
 app.get("/", (req, res) => {
     res.sendFile(__dirname + '/index.html'); // 指向你的 HTML 檔案
 });
+
+app.use("/nightmarket",router);
+
 
 // 啟動伺服器
 app.listen(port, () => {

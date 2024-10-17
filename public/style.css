@@ -1,57 +1,82 @@
 /* style.css */
-
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
 /* 導航欄樣式 */
+/* Navbar 外層樣式 */
 #navbar {
-    background-color: #0c243c; /* 背景顏色 */
-    /*padding :5px;*/
-    display: flex; /* 使用彈性盒子布局 */
-    align-items: center; /* 垂直居中 */
-    justify-content: space-between; /* 將 logo 和連結分開 */
-}
-
-#navbar img {
-    max-width: 40px; /* 設定 logo 的最大寬度 */
-    height: auto; /* 自動調整高度以保持比例 */
-}
-
-#nav-links {
-    display: flex; /* 使連結在同一行顯示 */
-    width:calc(50%);
-    justify-content: flex-end;
-}
-#navbar a {
-    max-width: 40px;
+    background-color: #0c243c; /* 深藍色背景 */
     display: flex;
-    margin-left: 10px;
+    align-items: center; /* 垂直居中對齊 */
+    justify-content: space-between; /* 將 logo 和連結分開 */
+    padding: 10px 20px; /* 給 navbar 增加一些內邊距 */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 添加輕微陰影效果 */
 }
+
+/* Navbar 中的 logo */
+#navbar img {
+    max-width: 40px;
+    height: auto;
+    cursor: pointer; /* 鼠標移上去時變為手型 */
+}
+
+/* 連結容器樣式 */
+#nav-links {
+    display: flex;
+    width: calc(50%);
+    justify-content: flex-end;
+    gap: 15px; /* 增加連結之間的間距 */
+}
+
+/* Navbar 連結樣式 */
+#navbar a {
+    text-decoration: none; /* 去除預設的下劃線 */
+    color: #ffffff; /* 白色文字 */
+    font-size: 16px;
+    padding: 8px 15px;
+    border-radius: 4px; /* 添加圓角 */
+    transition: background-color 0.3s ease, color 0.3s ease; /* 添加過渡效果 */
+}
+
+#navbar a:hover {
+    background-color: #357ABD; /* 懸停時改變背景顏色 */
+    color: #e0e0e0; /* 文字顏色變淡 */
+}
+
+/* Navbar 按鈕樣式 */
 #navbar button {
     display: flex;
-    width: calc(33%);
-    height: 35px;
-    padding: 5px 10px; /* 內邊距讓按鈕有些空間 */
-    background-color: transparent; /* 背景透明 */
+    height: 40px;
+    padding: 10px 20px;
+    background-color: #4A90E2;
+    color: white;
+    border: none;
+    border-radius: 5px;
     align-items: center;
     justify-content: center;
-    color: white; /* 文字顏色 */
-    border: none; /* 移除邊框 */
-    transform: skew(-20deg);
-    overflow: hidden;
     cursor: pointer;
-    transition:color 0.5s ease; /* 添加漸變效果 */
+    transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
+    font-size: 16px;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* 添加輕微陰影 */
 }
-#navbar button > span {
-    transform: skew(20deg); /* 把文字恢復到正常 */
-}
+
 #navbar button:hover {
-    background-image:url('/icon/agent-hover.jpg');
-    background-size:cover; /* 讓圖片充滿容器 */
-    color: transparent; /* 隱藏文字 */
+    background-color: #357ABD;
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 懸停時加強陰影 */
 }
+
+#navbar button:active {
+    background-color: #2C5F8A;
+    transform: scale(0.98);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 點擊時陰影變淺 */
+}
+
 /* 其他樣式 */
 body {
     font-family: Arial, sans-serif; /* 設定字體 */
     margin: 0; /* 去掉默認邊距 */
     background-image: url('icon/background.jpg');
+    background-size:contain ;
 }
 
 #linkContainer {
@@ -60,32 +85,207 @@ body {
     justify-content: space-around; /* 在行間留出空間 */
 }
 
-.skin {
-    border: 2px solid #ccc; /* 為每個武器皮膚添加邊框 */
+.skin-button {
+    width: calc(30% - 50px); /* 每個皮膚的寬度，三個一排，減去邊距 */
     border-radius: 8px; /* 添加圓角 */
+    border: 2px solid #ccc; /* 添加邊框 */
+    background-color: transparent; /* 透明背景 */
+    padding: 0; /* 取消內部填充 */
+    margin: 10px; /* 增加上下之間的距離 */
+    cursor: pointer; /* 鼠標懸停時的光標樣式 */
     text-align: center; /* 文字居中 */
+    display: flex; /* 使用 flex 來垂直排列內容 */
+    flex-direction: column; /* 垂直排列 */
+    align-items: center;
+    justify-content: flex-start; /* 從上到下排列 */
+}
+
+.skin {
+    width: 100%; /* 設置寬度為父容器的 100% */
+    display: flex; /* 使用 flex 來垂直排列 */
+    flex-direction: column; /* 確保圖片和文字是垂直排列 */
+    align-items: center;
+    justify-content: center;
 }
 
 .skin img {
-    max-width: 95%; /* 讓圖片寬度最大為容器寬度 */
-    height: auto; /* 高度自動調整 */
+    max-width: 100%; /* 圖片寬度設置為容器寬度 */
+    height: auto; /* 自動調整高度 */
     border-radius: 4px; /* 圓角圖片 */
+    margin-bottom: 5px; /* 圖片與文字之間的間距 */
 }
 
-.skin-button {
-    width: 100%; /* 按鈕寬度佔滿容器 */
-    border-radius: 8px; /* 添加圓角 */
-    border: none; /* 取消邊框 */
-    background-color: transparent; /* 透明背景 */
-    padding: 0; /* 取消內部填充 */
-    margin: 0; /* 取消外部間距 */
-    cursor: pointer; /* 鼠標懸停時的光標樣式 */
-    text-align: center; /* 文字居中 */
-    color: aliceblue;
-    width: calc(30% - 10px); /* 每個皮膚的寬度，三個一排，減去邊距 */
-    margin: 10px; /* 增加上下之間的距離 */
+.skin-name {
+    font-size: 14px;
+    color: white;
+    margin: 5px 0; /* 與圖片之間的距離 */
 }
+
 
 .skin-button:hover {
     background-color: rgba(255, 255, 255, 0.1); /* 懸停時的背景變化 */
+}
+
+body.nightmarket{
+    background-image: url('icon/nightmarket.jpg');
+    background-size:cover;
+}
+h1.nightmarket{
+    font-family: "Mochiy Pop One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: rgb(52, 214, 255);
+    text-align: center;
+    margin-bottom: 0;
+}
+h2.nightmarket{
+    font-family: "Mochiy Pop One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 0;
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.card {
+    width: 120px;
+    height: 180px;
+    perspective: 1000px; /* 控制3D透視效果 */
+}
+
+.card-inner {
+    transform: rotateY(180deg) scale(1);
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    cursor: pointer;
+}
+
+.card-front {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden; /* 隱藏背面 */
+    display: flex;
+    flex-direction: column; /* 將內容垂直排列 */
+    justify-content: flex-end; /* 垂直對齊底部 */
+    background-color: rgba(0, 0, 0, 0.244);
+    box-shadow: inset 0 0 0 1px #D1548D; /* 使用 inset 創建內部邊框 */
+}
+
+
+.card-back{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden; /* 隱藏背面 */
+    display: flex;
+    flex-direction: column; /* 將內容垂直排列 */
+    justify-content: flex-end; /* 垂直對齊底部 */
+    background-color: rgba(0, 0, 0, 0.244);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+.image-container {
+    display: flex;
+    justify-content: center; /* 水平居中 */
+    align-items: center; /* 垂直居中 */
+    width: 100%; /* 設置為容器的寬度 */
+    height: 100%; /* 設置為容器的高度 */
+    overflow: hidden; /* 隱藏超出容器的部分 */
+}
+
+#skinImage {
+    width: 120%; /* 根據需要調整大小 */
+    height: auto; /* 保持圖片的比例 */
+    transform: rotate(45deg); /* 向右傾斜 45 度 */
+    transform-origin: center; /* 設置傾斜的起點為中心 */
+}
+
+
+
+.skinName{
+    position: absolute;
+    left: 5px;
+    bottom: 5px;
+    color: white;
+    font-size: 10px;
+    text-align: left;
+    margin: 0%;
+    max-width: 85px;
+}
+
+
+.card-back {
+    transform: rotateY(180deg); /* 背面翻轉 */
+    background-size: contain; /* 修改圖片大小 */
+    background-position: center; /* 確保圖片居中 */
+    background-repeat: no-repeat; /* 確保圖片不重複 */
+}
+
+/* 點擊時的翻轉效果 */
+.card.flipped .card-inner {
+    animation: flipAndScale 0.9s ease-in-out;
+    transform: rotateY(0deg); /* 確保最終狀態是翻轉的 */
+}
+
+@keyframes flipAndScale {
+    0% {
+        transform: rotateY(180deg) scale(1);
+    }
+    50% {
+        transform: rotateY(0deg) scale(1.1); /* 中間狀態：翻轉並放大1.1倍 */
+    }
+    100% {
+        transform: rotateY(0deg) scale(1); /* 最終狀態：翻轉完成並恢復原尺寸 */
+    }
+}
+#levelImage {
+    width: 23px; /* 調整圖片寬度 */
+    height: auto; /* 保持圖片的比例 */
+    position: absolute;
+    bottom: 5px; /* 距離卡片頂部的距離 */
+    right: 5px; /* 距離卡片右側的距離 */
+    background-color: rgba(255, 255, 255, 0); /* 背景顏色和透明度 */
+    z-index: 10; /* 確保圖片在最上層顯示 */
+}
+p.price {
+    position: absolute; /* 設定為絕對定位 */
+    top: 5px; /* 距離卡片頂部的距離 */
+    right: 5px; /* 距離卡片右側的距離 */
+    font-size: 8px; /* 調整字體大小 */
+    color: red; /* 設定字體顏色為白色 */
+    text-decoration: line-through;
+    margin: 0;
+}
+p.disPercent{
+    position: absolute;
+    top: 5px; /* 距離卡片頂部的距離 */
+    left: 5px; /* 距離卡片右側的距離 */
+    font-size: 11px; /* 調整字體大小 */
+    z-index: 20; /* 確保文字顯示在最前面 */
+    color: red;
+    margin: 0;
+    text-decoration: solid;
+}
+p.disPrice{
+    color: white;
+    position: absolute;
+    top: 20px; /* 距離卡片頂部的距離 */
+    right: 5px; /* 距離卡片右側的距離 */
+    font-size: 10px; /* 調整字體大小 */
+    z-index: 20; /* 確保文字顯示在最前面 */
+    margin: 0;
 }
