@@ -158,8 +158,8 @@ h2.nightmarket{
 }
 
 .card {
-    width: 120px;
-    height: 180px;
+    width: 200px;
+    height: 300px;
     perspective: 1000px; /* 控制3D透視效果 */
 }
 
