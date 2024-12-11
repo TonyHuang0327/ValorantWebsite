@@ -15,6 +15,6 @@ app.use("/nightmarket",router);
 
 
 // 啟動伺服器
-app.listen(port, () => {
+app.listen(PORT, () => {
     console.log(`Server is running at http://localhost:${port}`);
 });
